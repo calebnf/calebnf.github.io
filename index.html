@@ -11,6 +11,7 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
   </head>
   <body>
     <div class="wrapper">
@@ -52,22 +53,17 @@
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
-    <head>
-	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
-	
-</head>
+   
 <body>
-	This is my first Leaflet.js map!
+
 	<div id='map' style="height:400px; width:600px"; background-color: blue; border: 1px solid black;></div>
 	<script>
 		var map = L.map('map').setView([39.9822729,-75.1543376], 13);
 		L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 			attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
 		}).addTo(map);
-		
-		L.marker([33.393714, -104.534766]).addTo(map)
-    			.bindPopup('Alien Sighting. <br> Call Fox Mulder.')
-    			.openPopup();
+	</script>
+	
     <script src="javascripts/scale.fix.js"></script>
     <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
   </body>
