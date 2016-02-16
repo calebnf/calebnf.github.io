@@ -659,7 +659,7 @@ header {
   right: 0;
   width: 100%;
   text-align: center;
-  background: url(../images/background.png) #4276b6;
+  background: url(../images/background.png) #00CCFF;
   -moz-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
   -webkit-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
   -o-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
@@ -744,7 +744,7 @@ header p {
   background: -o-linear-gradient(#FF196A, #FF194D);
   background: -ms-linear-gradient(#FF196A, #FF194D);
   background: linear-gradient(#FF196A, #FF194D);
-  background-color: #ffeca0;
+  background-color: #FF194D;
 }
 #banner .fork {
   position: fixed;
@@ -779,7 +779,7 @@ header p {
   display: inline;
 }
 #banner ul li a.button {
-  background-color: #FFE788;
+  background-color: ##FF194D;
 }
 #banner #logo {
   position: absolute;
