@@ -817,7 +817,7 @@ small {
 }
 
 nav {
-  width: 230px;
+  width: 0px;
   position: fixed;
   top: 220px;
   left: 50%;
