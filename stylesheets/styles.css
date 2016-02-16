@@ -788,6 +788,7 @@ header p {
   right: 7px;
   top: 7px;
   display: block;
+  border: 1px solid #000000;
   background: url(https://avatars3.githubusercontent.com/u/12403170?v=3&s=40);
 }
 
