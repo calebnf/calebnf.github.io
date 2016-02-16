@@ -543,7 +543,7 @@ h3 {
 }
 
 a {
-  color: #3399cc;
+  color: #00CCFF;
   font-weight: 400;
   text-decoration: none;
 }
@@ -631,10 +631,10 @@ td {
   text-align: left;
   padding: 5px 10px;
   border-bottom: 1px solid #e5e5e5;
-  border-right: 1px solid #ffcc00;
+  border-right: 1px solid #FF194D;
 }
 td:first-child {
-  border-left: 1px solid #ffcc00;
+  border-left: 1px solid #FF194D;
 }
 
 hr {
