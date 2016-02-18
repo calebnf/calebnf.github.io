@@ -686,6 +686,13 @@ header p {
   margin: 0px;
 }
 
+#sidebar {
+  float: left;
+  width: 280px;
+  background: darkgreen;
+}
+
+
 #banner {
   z-index: 100;
   left: 0;
