@@ -18,9 +18,7 @@
 			attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
 		}).addTo(map);
 		
-		L.marker([39.980584, -75.173966]).addTo(map)
-    			.bindPopup('Alien Sighting. <br> Call Fox Mulder.')
-    			.openPopup();
+		L.geoJson(Points.json).addTo(map);
 	
     </script>
     <!--[if lt IE 9]>
