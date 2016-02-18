@@ -731,7 +731,7 @@ header p {
 }
 #banner .button {
   border: 1px solid #dba500;
-  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #FF194D));
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #FF194D), color-stop(100%, #FF194D));
   background: -webkit-linear-gradient(#FF196A, #FF194D);
   background: -moz-linear-gradient(#FF196A, #FF194D);
   background: -o-linear-gradient(#FF196A, #FF194D);
@@ -748,7 +748,7 @@ header p {
   -o-box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.4), 0px 1px 1px rgba(0, 0, 0, 0.1);
   box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.4), 0px 1px 1px rgba(0, 0, 0, 0.1);
   background-color: #FF194D;
-  margin-left: 5px;
+  margin-left: 50px;
   padding: 10px 12px;
   margin-top: 6px;
   line-height: 14px;
@@ -759,7 +759,7 @@ header p {
   text-align: center;
 }
 #banner .button:hover {
-  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #FF194D));
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #FF194D), color-stop(100%, #FF194D));
   background: -webkit-linear-gradient(#FF196A, #FF194D);
   background: -moz-linear-gradient(#FF196A, #FF194D);
   background: -o-linear-gradient(#FF196A, #FF194D);
