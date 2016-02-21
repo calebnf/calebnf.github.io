@@ -17,6 +17,7 @@
 
   </head>
 <body>
+<section>
 var geo = {"type":"FeatureCollection","features":[{"type":"Feature","properties":{"NAME":"Dox Thrash House","CAPTION":"Home to Dox Thrash, an innovative African-American master printmaker; Built c. 1890","ADDR":"2340 Cecil B Moore Ave","ZIP":19121,"URL":"http://www.preservationalliance.com/wp-content/uploads/2014/03/Thrash_web.jpg","LOC":"39.980600, -75.173958","LOC_X_":-75.173958,"LOC_Y_":39.9806,"LOC_X":39.9806,"LOC_Y":-75.173958},"geometry":{"type":"Point","coordinates":[-75.173958,39.9806]}}, ...;
 
 
@@ -31,4 +32,17 @@ var geo = {"type":"FeatureCollection","features":[{"type":"Feature","properties"
 
 				L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'}).addTo(map);
 				var geojsonlayer = L.geoJson(geo, {onEachFeature: onEachFeature}).addTo(map);
-				</body>
+          </section>
+      <div id='sidebar' style="height:530px; width 200px";>
+      	<h3>Information</h3>
+      	<h4><p>This is an online map tour of endangered buildings in the Philadelphia area. This list was pulled from the Preservation Alliance of Greater Philadelphia endangered buildings lists of 2010 - 2014.</p>
+      	<p> The buildings listed here represent culturally or architecturally significant additions to the historical fabric of the Greater Philadelphia Area.</p></h4>
+      	<p> Click each point to discover and learn more about each structure.</p>
+      </div>
+      
+    </div>
+    
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+    
+  </body>
+</html>
