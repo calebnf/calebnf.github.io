@@ -14,7 +14,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script src="javascripts/main.js"></script>
-    <script src="Points.geojson" type="data"></script>
+    <script> var geojsonLayer = new L.GeoJSON.AJAX("Points.json");</script>
     <script> 
     		var map = L.map('map').setView([39.9822729,-75.1543376], 11);
 		L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
