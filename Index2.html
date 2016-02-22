@@ -32,7 +32,7 @@
       <nav>
         <ul></ul>
       </nav>
-    
+    <div id='map1' style="height:550px; width:900px"; background-color: blue; border: 1px solid black;></div>
       <section>
         <h3>
           
@@ -53,7 +53,7 @@ var geo = {"type":"FeatureCollection","features":[{"type":"Feature","properties"
 				L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'}).addTo(map);
 				var geojsonlayer = L.geoJson(geo, {onEachFeature: onEachFeature}).addTo(map);
           </script>
-          <div id='map' style="height:550px; width:900px"; background-color: blue; border: 1px solid black;></div>
+          
           
           </section>
       <div id='sidebar' style="height:530px; width 200px";>
