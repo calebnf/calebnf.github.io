@@ -20,6 +20,12 @@
 		L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 			attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
 		}).addTo(map);
+		function onEachFeature(feature, layer) {
+				    // does this feature have a property named popupContent?
+				    if (feature.properties && feature.properties.NAME && feature.properties.CAPTION) {
+				        layer.bindPopup("<h1>"+feature.properties.NAME+"</h1><p>"+feature.properties.CAPTION+"</p>");
+				    }
+}
     </script>
     <script> function resultsReturned (xmlHTTP)
 {
