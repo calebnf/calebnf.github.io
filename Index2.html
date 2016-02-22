@@ -34,6 +34,7 @@
       </nav>
    
       <section>
+      	<div id='map' style="height:550px; width:900px";></div>
         <h3>
            
 
@@ -48,12 +49,14 @@ var geo = {"type":"FeatureCollection","features":[{"type":"Feature","properties"
 				    }
 }
 </script><script>
-				var map = L.map('map').setView([39.9816609, -75.1474139], 13);
-   </script>
-				L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'}).addTo(map);
+			var map = L.map('map').setView([39.9822729,-75.1543376], 11);
+		L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+		}).addTo(map);
+   </script><script>
 				var geojsonlayer = L.geoJson(geo, {onEachFeature: onEachFeature}).addTo(map);
-          
-          <div id='map' style="height:550px; width:900px";></div>
+          </script>
+        
           
           </section>
       <div id='sidebar' style="height:530px; width 200px";>
