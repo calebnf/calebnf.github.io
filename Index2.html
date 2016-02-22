@@ -17,7 +17,31 @@
 
   </head>
 <body>
-<section>
+	<header>
+        <h1>Endangered Buildings in the Philadelphia Area</h1>
+        <p></p>
+      </header>
+
+      <div id="banner">
+        <span id="logo"></span>
+
+        <a href="https://github.com/calebnf" class="button fork"><strong>View On GitHub</strong></a>
+      </div><!-- end banner -->
+
+    <div class="wrapper">
+      <nav>
+        <ul></ul>
+      </nav>
+    
+      <section>
+        <h3>
+          <div id='map' style="height:550px; width:900px"; background-color: blue; border: 1px solid black;></div>
+	<script>
+		var map = L.map('map').setView([39.9822729,-75.1543376], 11);
+		L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+		}).addTo(map);
+	</script>
 var geo = {"type":"FeatureCollection","features":[{"type":"Feature","properties":{"NAME":"Dox Thrash House","CAPTION":"Home to Dox Thrash, an innovative African-American master printmaker; Built c. 1890","ADDR":"2340 Cecil B Moore Ave","ZIP":19121,"URL":"http://www.preservationalliance.com/wp-content/uploads/2014/03/Thrash_web.jpg","LOC":"39.980600, -75.173958","LOC_X_":-75.173958,"LOC_Y_":39.9806,"LOC_X":39.9806,"LOC_Y":-75.173958},"geometry":{"type":"Point","coordinates":[-75.173958,39.9806]}}, ...;
 
 
