@@ -48,6 +48,7 @@
 						    // does this feature have a property named popupContent?
 						    if (feature.properties && feature.properties.NAME && feature.properties.CAPTION) {
 						        layer.bindPopup("<style>background-color: yellow;</style><h1>"+feature.properties.NAME+"</h1><p>"+feature.properties.CAPTION+"</h1><p><center>"+feature.properties.URL+"</center></p>");
+							layer.setStyle({fillColor :'blue'})  
 						    }
 		}
 	</script>
