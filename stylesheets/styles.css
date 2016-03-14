@@ -543,8 +543,9 @@ h3 {
 }
 
 h7 {
-    height: inherit;
-    vertical-align: bottom;
+    font-size:10;
+    position: relative;
+    text-align: bottom;
 }
 
 a {
