@@ -184,6 +184,7 @@ h6 {
 h7 {
   font-size: 0.75em;
   margin: 2.33em 0;
+  line-height: normal;
 }
 
 /*
@@ -516,7 +517,7 @@ body {
   background: url(../images/body-background.png) #eae6d1;
 }
 
-h1, h2, h3, h4, h5, h6, h7 {
+h1, h2, h3, h4, h5, h6, {
   color: #333;
   margin: 0 0 10px;
 }
@@ -549,7 +550,7 @@ h3 {
 
 h7 {
     font-size:1;
-    line-height: 1;
+    line-height: normal;
 }
 
 a {
