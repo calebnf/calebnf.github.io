@@ -511,7 +511,7 @@ body {
   background: url(../images/body-background.png) #eae6d1;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, h7 {
   color: #333;
   margin: 0 0 10px;
 }
@@ -533,7 +533,7 @@ h2 {
   color: #393939;
 }
 
-h3, h4, h5, h6 {
+h3, h4, h5, h6, h7 {
   color: #666666;
 }
 
@@ -541,6 +541,10 @@ h3 {
   font-size: 18px;
   line-height: 24px;
 }
+
+h7 {
+    height: inherit;
+    vertical-align: bottom;
 
 a {
   color: rgba(0, 204, 255, 0.4);
