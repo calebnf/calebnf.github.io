@@ -660,9 +660,6 @@ header {
   width: 100%;
   text-align: center;
   background: rgba(0, 204, 255, 0.4);
-  background-image: url("https://s-media-cache-ak0.pinimg.com/736x/80/39/6a/80396aba81e42d0e2d6d5f24b6c99a52.jpg");
-  background-repeat: repeat-x;
-  background: rgba(0, 204, 255, 0.4);
   font: 40px/48px "Helvetica"
   -moz-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
   -webkit-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
@@ -672,6 +669,20 @@ header {
   -webkit-font-smoothing: antialiased;
   min-height: 76px;
 }
+
+header::after {
+  content: "";
+  background: url("https://s-media-cache-ak0.pinimg.com/736x/80/39/6a/80396aba81e42d0e2d6d5f24b6c99a52.jpg");
+  background-repeat: repeat-x;
+  opacity: 0.5;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;   
+}
+
 header h1 {
   font: 40px/48px "Helvetica Neue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #f3f3f3;
