@@ -54,7 +54,7 @@ $(document).ready(function(){
           type: 'grocery_or_supermarket'
         };
         service.radarSearch(request, callback);
-        document.getElementById('api_results').innerHTML=service.radarSearch(request, callback);
+        document.getElementById('grocery_or_supermarket').innerHTML=service.radarSearch(request, callback);
       }
 
       function callback(results, status) {
@@ -64,7 +64,7 @@ $(document).ready(function(){
         }
         for (var i = 0, result; result = results[i]; i++) {
           addMarker(result);
-          document.getElementById("api_result").appendChild(document.createTextNode(String(result)));
+          document.getElementById("grocery_or_supermarket").appendChild(document.createTextNode(String(result)));
         }
       }
 
