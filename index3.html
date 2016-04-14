@@ -1,15 +1,32 @@
+<!DOCTYPE html>
 <html>
-<head>  
-<title>build your own</title>  
-<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css"/>  
-<link rel="stylesheet" href="Leaflet.Instagram/dist/Leaflet.Instagram.css"/>  
-<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>  
-<style>    #map{ height: 100% }  </style></head><body> <div id="map"></div>
-<script src="reqwest.min.js"></script> 
-<script src="Leaflet.Instagram/dist/Leaflet.Instagram.js"></script> 
-<script> var map = L.map('map').setView([46.236156, -61.308195], 17); 
-      var at = '256164975.c9600e9.7a9aeb07284e4220bdddeaddcbedee38'; 
-      var url = "https://api.flickr.com/services/rest/?method=flickr.photos.geo.photosForLocation&api_key=907dea022b0dfc2ec993df236bc0fe6c&lat=46.236156&lon=-61.308195&accuracy=6&format=rest&auth_token=72157664822631464-2876c6edcb0848a1&api_sig=61d44db06256284a5942640f730d3829;
-L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {   attribution: 'Map data © <a href="http://openstreetmap.org">OpenStreetMap</a>, Data by <a href="http://mass.gov/mgis">MassGIS</a>',   maxZoom: 19,   minZoom: 7 }).addTo(map);</script>
-</body>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <style type="text/css">
+      html { height: 100% }
+      body { height: 100%; margin: 0; padding: 0 }
+      #map-canvas { height: 75%; width: 75%; margin: 0 0 0 2em; }
+      #intro { padding-left: 2em;}
+    </style>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+
+    <script type="text/javascript"
+      src="https://maps.googleapis.com/maps/api/js?sensor=false&key=AIzaSyARMjldZgdWaKAtSF5TnZl1PHytA51mFFg">
+    </script>
+    <script src="./flickrmap.js"></script>
+  </head>
+  <body>
+    <div id="intro">
+      <h3>A simple demo that shows how JSON, REST and a little JavaScript could be the start of a capable web application.</h3>
+      <label for"lat">Lat:</label>
+      <input id="lat" value="38.8951" placeholder="38.8951" />
+      <label for"lon">Lon:</label>
+      <input id="lon" value="-77.0367" placeholder="-77.0367" />
+      <button id="search">Search</button>
+      <div>
+        <em>Enter a latitude and longitude to find Flickr photos related to the terms "monument", "statue" or "historical".</em>
+      </div>
+    </div>
+    <div id="map-canvas"/>
+  </body>
 </html>
