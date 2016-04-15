@@ -62,10 +62,22 @@ $(document).ready(function(){
           console.error(status);
           return;
         }
-        for (var i = 0, result; result = results[i]; i++) {
+
+         var geoJSONstr='{"type":"FeatureCollection", "features":[';
+
+         for (var i = 0, result; result = results[i]; i++) {
           addMarker(result);
-          document.getElementById("api_result").appendChild(document.createTextNode(String(result)));
+
+		  var rawCoords = String(result.geometry.location);
+		  var lat = rawCoords.slice(1,rawCoords.indexOf(','));
+		  var lng = rawCoords.slice(rawCoords.indexOf(',')+2,rawCoords.length - 1);
+          var coords = '[' + lng + ', ' + lat + ']';
+		  geoJSONstr+='{"type": "Feature", "geometry": {"type": "Point", "coordinates": ' + coords + '}, "properties": {}}, ';
+
         }
+        		  geoJSONstr = geoJSONstr.slice(0, geoJSONstr.length - 2);
+        		  geoJSONstr+=']}';
+        		  document.getElementById("api_result").appendChild(document.createTextNode(geoJSONstr));
       }
 
       function addMarker(place) {
