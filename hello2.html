@@ -103,7 +103,6 @@ $(document).ready(function(){
             infoWindow.open(map, marker);
           });
         });
-      	document.getElementById("api_result").appendChild(document.createTextNode(String(result)));
       }
       
     </script>
@@ -111,6 +110,6 @@ $(document).ready(function(){
   <body>
     <div id="map"></div>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyARMjldZgdWaKAtSF5TnZl1PHytA51mFFg&callback=initMap&libraries=places,visualization" async defer></script>
-    <div id = "api_results"></div>
+    <div id = "api_result"></div>
   </body>
 </html>
