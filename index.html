@@ -45,6 +45,9 @@
     <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
     <script>
         var map = L.map('map').setView([39.939, -75.172], 10);
+        var at = '256164975.c9600e9.7a9aeb07284e4220bdddeaddcbedee38';
+        var url = "https://api.instagram.com/v1/media/search?lat=39.939&lng=-75.172&access_token="+at;
+        
         mapLink = 
             '<a href="http://openstreetmap.org">OpenStreetMap</a>';
         L.tileLayer(
@@ -52,9 +55,8 @@
             attribution: '&copy; ' + mapLink + ' Contributors',
             maxZoom: 18,
             }).addTo(map);
-        var at = '256164975.c9600e9.7a9aeb07284e4220bdddeaddcbedee38'; 
-        var url = "https://api.instagram.com/v1/media/search?lat=39.939&lng=-75.172&access_token="+at;
         L.instagram(url).addTo(map);
+        
     </script>
     </div>
     <footer>
