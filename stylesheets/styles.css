@@ -17,6 +17,17 @@ body {
   font-weight: 300;
   background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAYAAABNChwpAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNXG14zYAAAAUdEVYdENyZWF0aW9uIFRpbWUAMy82LzEygrTcTAAAAFRJREFUSIljfPDggZRf5RIGGNjUHsNATz6jXmSL1Kb2GLiAX+USBnrymRgGGDCORgFmoNAXjEbBaBSMRsFoFIxGwWgUjEbBaBSMRsFoFIxGwWgUAABYNujumib3wAAAAABJRU5ErkJggg==') fixed;
 }
+h45 {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  position: absolute;
+  z-index: 0;
+  right: 20px;
+  top: 20px;
+  height: 0px;
+  padding: 0px 0;
+}
 
 .wrapper {
   width: 900px;
