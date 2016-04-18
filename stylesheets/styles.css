@@ -108,40 +108,6 @@ header ul {
   height: 0px;
   padding: 0px 0;
 
-}
-header ul li {
-  width: 0px;
-  float: left;
-  border-right: 0px solid #3A7CBE;
-  height: 0px;
-}
-header ul li.single {
-  border: none;
-}
-header ul li + li {
-  width: 0px;
-  border-left: 0px solid #8BBEF3;
-}
-header ul li + li + li {
-  border-right: none;
-  width: 0px;
-}
-header ul a {
-  line-height: 0;
-  font-size: 11px;
-  color: #fff;
-  color: rgba(255, 255, 255, 0.8);
-  text-align: center;
-  font-weight: 400;
-  padding-top: 0px;
-  height: 0px;
-}
-header ul a strong {
-  font-size: 14px;
-  color: #fff;
-  -webkit-font-smoothing: antialiased;
-}
-
 section {
   padding: 15px 20px;
   font-size: 15px;
