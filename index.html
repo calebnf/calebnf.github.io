@@ -11,6 +11,7 @@
     <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
     <link rel="stylesheet" href="Http://gus8068Spr16.github.io/Leaflet.Instagram/dist/Leaflet.Instagram.css" />
     <script src="http://gus8068Spr16.github.io/Leaflet.Instagram/dist/Leaflet.Instagram.js"></script>
+    <script src="http://gus8068spr16.github.io/reqwest.min.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
     <!--[if lt IE 9]>
@@ -42,13 +43,10 @@
       </header>
       <div id="map" style="width: 900px; height: 575px"></div>
       
-    <script src="http://gus8068spr16.github.io/reqwest.min.js"></script>
-    <script src="http://gus8068Spr16.github.io/Leaflet.Instagram/dist/Leaflet.Instagram.js"></script>
-    <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
     <script>
-        var map = L.map('map').setView([39.939, -75.172], 10);
-        var at = '256164975.c9600e9.7a9aeb07284e4220bdddeaddcbedee38';
-        var url = "https://api.instagram.com/v1/media/search?lat=39.939&lng=-75.172&access_token="+at;
+    var map = L.map('map').setView([39.939, -75.172], 10);
+    var at = '256164975.c9600e9.7a9aeb07284e4220bdddeaddcbedee38';
+    var url = "https://api.instagram.com/v1/media/search?lat=39.939&lng=-75.172&access_token="+at;
         
         mapLink = 
             '<a href="http://openstreetmap.org">OpenStreetMap</a>';
@@ -57,7 +55,7 @@
             attribution: '&copy; ' + mapLink + ' Contributors',
             maxZoom: 18,
             }).addTo(map);
-        L.Instagram(url).addTo(map);
+        L.instagram(url).addTo(map);
         
     </script>
     </div>
