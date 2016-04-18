@@ -104,9 +104,9 @@ header ul {
   position: absolute;
   z-index: 0;
   right: 20px;
-  top: 5px;
+  top: 10px;
   height: 75px;
-  padding: 0px 0;
+  padding: 5px 0;
 } 
 
 section {
