@@ -109,18 +109,6 @@ header ul {
   padding: 0px 0;
 
 }
-header ul:before {
-  content: '';
-  position: absolute;
-  z-index: -1;
-  left: -5px;
-  top: -4px;
-  right: -5px;
-  bottom: -6px;
-  background: rgba(0, 0, 0, 0.1);
-
-
-}
 header ul li {
   width: 0px;
   float: left;
