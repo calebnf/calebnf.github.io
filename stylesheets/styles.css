@@ -114,8 +114,6 @@ header ul {
   background: -o-linear-gradient(#77b9fb, #3782cd);
   background: -ms-linear-gradient(#77b9fb, #3782cd);
   background: linear-gradient(#77b9fb, #3782cd);
-  border-radius: 5px;
-  width: auto;
 }
 header ul:before {
   content: '';
@@ -136,7 +134,7 @@ header ul:before {
 header ul li {
   width: 79px;
   float: left;
-  border-right: 1px solid #3A7CBE;
+  border-right: 0px solid #3A7CBE;
   height: 0px;
 }
 header ul li.single {
