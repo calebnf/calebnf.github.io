@@ -23,19 +23,13 @@ body {
   height: 650px;
   margin: 0 auto;
   background: #DEDEDE;
-  border-radius: 8px;
   -webkit-border-radius: 8px;
-  -moz-border-radius: 8px;
-  -ms-border-radius: 8px;
-  -o-border-radius: 8px;
-  border-radius: 8px;
+  -moz-border-radius: 8px, 8px, 0px, 0px;
+  -ms-border-radius: 8px, 8px, 0px, 0px;
+  -o-border-radius: 8px, 8px, 0px, 0px;
   -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0 0 0 1px, rgba(0, 0, 0, 0.45) 0 3px 10px;
   -moz-box-shadow: rgba(0, 0, 0, 0.2) 0 0 0 1px, rgba(0, 0, 0, 0.45) 0 3px 10px;
   box-shadow: rgba(0, 0, 0, 0.2) 0 0 0 1px, rgba(0, 0, 0, 0.45) 0 3px 10px;
-}
-
-#map {
-border-radius: 8px;
 }
 
 header, section, footer {
