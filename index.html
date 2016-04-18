@@ -49,7 +49,7 @@
     </script>
 
     <script>
-        var map = L.map('map').setView([46.228, -61.285], 10);
+        var map = L.map('map').setView([39.939, -75.172], 10);
         mapLink = 
             '<a href="http://openstreetmap.org">OpenStreetMap</a>';
         L.tileLayer(
@@ -58,7 +58,7 @@
             maxZoom: 18,
             }).addTo(map);
         var at = '256164975.c9600e9.7a9aeb07284e4220bdddeaddcbedee38'; 
-        var url = "https://api.instagram.com/v1/media/search?lat=46.228&lng=-61.285&access_token="+at;
+        var url = "https://api.instagram.com/v1/media/search?lat=39.939&lng=-75.172&access_token="+at;
         L.instagram(url).addTo(map);
     </script>
     </div>
