@@ -57,8 +57,9 @@
             attribution: '&copy; ' + mapLink + ' Contributors',
             maxZoom: 18,
             }).addTo(map);
-        
-        L.instagram('https://api.instagram.com/v1/media/search?lat=46.228&lng=-61.285&access_token=256164975.c9600e9.7a9aeb07284e4220bdddeaddcbedee38&distance=750').addTo(map);
+        var at = '256164975.c9600e9.7a9aeb07284e4220bdddeaddcbedee38'; 
+        var url = "https://api.instagram.com/v1/media/search?lat=40.0237&lng=-75.1723&access_token="+at;
+        L.instagram(url).addTo(map);
     </script>
     </div>
     <footer>
