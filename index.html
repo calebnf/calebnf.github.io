@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Calebnf.GitHub.io by calebnf</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-dark.css">
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css">
+    <link rel="stylesheet" href="Http://gus8068Spr16.github.io/Leaflet.Instagram/dist/Leaflet.Instagram.css">
+    <script src="http://gus8068spr16.github.io/reqwest.min.js"></script>
+    <script src="Http://gus8068Spr16.github.io/Leaflet.Instagram/dist/Leaflet.Instagram.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <link rel="stylesheet" href="Http://gus8068Spr16.github.io/Leaflet.Instagram/dist/Leaflet.Instagram.css">
+    <script src="http://gus8068spr16.github.io/reqwest.min.js"></script>
+    <script src="Http://gus8068Spr16.github.io/Leaflet.Instagram/dist/Leaflet.Instagram.js"></script>
+  <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+    <div class="wrapper">
+      <style>
+      #map {
+      width: 900px;
+      height: 575px;
+      margin: 0 auto;
+      background: #DEDEDE;
+      border-radius: 8px;
+      -webkit-border-radius: 8px;
+      -moz-border-radius: 8px;
+      -ms-border-radius: 8px;
+      -o-border-radius: 8px;
+      border-radius: 8px;
+      }
+  </style>
+      <header class="without-description">
+        <h1>Calebnf.GitHub.io</h1>
+        <p></p>
+        <p class="view"><a href="https://github.com/calebnf">View the Project on GitHub <small>calebnf</small></a></p>
+        
+        <ul>
+          <li class="single"><a href="https://github.com/calebnf/calebnf.github.io">View On <strong>GitHub</strong></a></li>
+        </ul>
+      </header>
+      <div id="map" style="width: 900px; height: 575px"></div>
+
+    <script
+        src="http://cdn.leafletjs.com/leaflet-0.7/leaflet.js">
+    </script>
+
+    <script>
+        var map = L.map('map').setView([39.939, -75.172], 10);
+        mapLink = 
+            '<a href="http://openstreetmap.org">OpenStreetMap</a>';
+        L.tileLayer(
+            'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; ' + mapLink + ' Contributors',
+            maxZoom: 18,
+            }).addTo(map);
+        var at = '256164975.c9600e9.7a9aeb07284e4220bdddeaddcbedee38'; 
+        var url = "https://api.instagram.com/v1/media/search?lat=39.939&lng=-75.172&access_token="+at;
+        L.instagram(url).addTo(map);
+    </script>
+    </div>
+    <footer>
+      <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+    </footer>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+    
+  </body>
+</html>
