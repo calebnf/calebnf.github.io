@@ -46,7 +46,7 @@ $(document).ready(function(){
       function performSearch() {
         var request = {
           bounds: map.getBounds(),
-          type: 'school'
+          type: 'hospital'
         };
         service.radarSearch(request, callback);
         document.getElementById('api_results').innerHTML=service.radarSearch(request, callback);
