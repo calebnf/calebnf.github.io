@@ -75,6 +75,7 @@
 
 <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
 <script src="countiesPA8.js"></script>
+<script src="EV_Charge.js"></script>
       
     <script type="text/javascript">
 
@@ -197,6 +198,16 @@
 		legend.addTo(map);
 
 	</script>
+	<script>
+				function onEachFeature(feature, layer) {
+						    // does this feature have a property named popupContent?
+						    if (feature.properties && feature.properties.COUNTY_NAM && feature.properties.CAPTION) {
+						        layer.bindPopup("<h1>"+feature.properties.NAME+"</h1><p>"+feature.properties.CAPTION+"</h1><p><center>"+feature.properties.URL+"</center></p>");
+						    }
+		}
+		var geojsonlayer = L.geoJson(chargers, {onEachFeature: onEachFeature}).addTo(map);
+	</script>
+	<script>
     </div>
     <footer>
       <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
