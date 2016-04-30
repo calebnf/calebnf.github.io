@@ -9,8 +9,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Peruzzi Nissan",
-    "Street Address":"165 Lincoln Hwy",
+    "NAME":"Peruzzi Nissan",
+    "ADDRESS":"165 Lincoln Hwy",
     "Intersection Directions":"",
     "City":"Fairless Hills",
     "State":"PA",
@@ -20,7 +20,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -32,8 +32,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"WEST GERMAN BMW",
-    "Street Address":"500 Pennsylvania Ave",
+    "NAME":"WEST GERMAN BMW",
+    "ADDRESS":"500 Pennsylvania Ave",
     "Intersection Directions":"STATION 01; This station is reserved for use by BMW i3 drivers only",
     "City":"Fort Washington",
     "State":"PA",
@@ -43,7 +43,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -55,8 +55,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Pittsburgh Zoo",
-    "Street Address":"1 Wild Pl",
+    "NAME":"Pittsburgh Zoo",
+    "ADDRESS":"1 Wild Pl",
     "Intersection Directions":"",
     "City":"Pittsburgh",
     "State":"PA",
@@ -66,7 +66,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -78,8 +78,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Wright Automotive Group",
-    "Street Address":"10520 Perry Hwy",
+    "NAME":"Wright Automotive Group",
+    "ADDRESS":"10520 Perry Hwy",
     "Intersection Directions":"",
     "City":"Wexford",
     "State":"PA",
@@ -89,7 +89,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":1,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772 CHADEMO"
     }
   },
@@ -101,8 +101,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Temple University - Health Sciences Center",
-    "Street Address":"3412-28 N Carlisle St",
+    "NAME":"Temple University - Health Sciences Center",
+    "ADDRESS":"3412-28 N Carlisle St",
     "Intersection Directions":"",
     "City":"Philadelphia",
     "State":"PA",
@@ -112,7 +112,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -124,8 +124,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"1900 Market Street",
-    "Street Address":"1900 Market Street",
+    "NAME":"1900 Market Street",
+    "ADDRESS":"1900 Market Street",
     "Intersection Directions":"",
     "City":"Philadelphia",
     "State":"PA",
@@ -135,7 +135,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -147,8 +147,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"CARCHARGING",
-    "Street Address":"600 Grant St",
+    "NAME":"CARCHARGING",
+    "ADDRESS":"600 Grant St",
     "Intersection Directions":"USX TOWER; Charging station is located on the Green Level, across from the pay station/elevator enclosure.",
     "City":"Pittsburgh",
     "State":"PA",
@@ -158,7 +158,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -170,8 +170,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Apple Nissan",
-    "Street Address":"1510 Whiteford Rd",
+    "NAME":"Apple Nissan",
+    "ADDRESS":"1510 Whiteford Rd",
     "Intersection Directions":"",
     "City":"York",
     "State":"PA",
@@ -181,7 +181,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -193,8 +193,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Northwoods Nissan",
-    "Street Address":"2039 N Susquehanna Trail",
+    "NAME":"Northwoods Nissan",
+    "ADDRESS":"2039 N Susquehanna Trail",
     "Intersection Directions":"",
     "City":"Hummels Wharf",
     "State":"PA",
@@ -204,7 +204,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -216,8 +216,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Chapman Ford of Horsham",
-    "Street Address":"1100 Easton Rd",
+    "NAME":"Chapman Ford of Horsham",
+    "ADDRESS":"1100 Easton Rd",
     "Intersection Directions":"",
     "City":"Horsham",
     "State":"PA",
@@ -227,7 +227,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -239,8 +239,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"PPA AIRPORT EV",
-    "Street Address":"8219 Island Ave",
+    "NAME":"PPA AIRPORT EV",
+    "ADDRESS":"8219 Island Ave",
     "Intersection Directions":"ECONOMY LOT 3; Adjacent to the Economy Toll plaza. Parking is only permitted if the car is plugged in.",
     "City":"Philadelphia",
     "State":"PA",
@@ -250,7 +250,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -262,8 +262,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Brenner Nissan",
-    "Street Address":"6271 Carlisle Pike",
+    "NAME":"Brenner Nissan",
+    "ADDRESS":"6271 Carlisle Pike",
     "Intersection Directions":"",
     "City":"Mechanicsburg",
     "State":"PA",
@@ -273,7 +273,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":1,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772 CHADEMO"
     }
   },
@@ -285,8 +285,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Hilton Garden Inn - Tesla",
-    "Street Address":"500 Cresson Blvd",
+    "NAME":"Hilton Garden Inn - Tesla",
+    "ADDRESS":"500 Cresson Blvd",
     "Intersection Directions":"",
     "City":"Phoenixville",
     "State":"PA",
@@ -296,7 +296,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -308,8 +308,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Shadyside Inn - Tesla",
-    "Street Address":"5405 Fifth Ave",
+    "NAME":"Shadyside Inn - Tesla",
+    "ADDRESS":"5405 Fifth Ave",
     "Intersection Directions":"",
     "City":"Pittsburgh",
     "State":"PA",
@@ -319,7 +319,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -331,8 +331,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"DANIELS BMW",
-    "Street Address":"4600 Crackersport Rd",
+    "NAME":"DANIELS BMW",
+    "ADDRESS":"4600 Crackersport Rd",
     "Intersection Directions":"STATION 01",
     "City":"Allentown",
     "State":"PA",
@@ -342,7 +342,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -354,8 +354,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Arbys - York",
-    "Street Address":"2600 Keyway Drive",
+    "NAME":"Arbys - York",
+    "ADDRESS":"2600 Keyway Drive",
     "Intersection Directions":"",
     "City":"York",
     "State":"PA",
@@ -365,7 +365,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":null,
     "EV DC Fast Count":1,
-    "EV Network":"eVgo Network",
+    "EVNETWORK":"eVgo Network",
     "EV Connector Types":"J1772COMBO"
     }
   },
@@ -377,8 +377,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"University of Pittsburgh Medical Center East",
-    "Street Address":"2775 Mosside Blvd",
+    "NAME":"University of Pittsburgh Medical Center East",
+    "ADDRESS":"2775 Mosside Blvd",
     "Intersection Directions":"Route 22 and Mosside",
     "City":"Monroeville",
     "State":"PA",
@@ -388,7 +388,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -400,8 +400,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Carnegie Science Center",
-    "Street Address":"One Allegheny Ave ",
+    "NAME":"Carnegie Science Center",
+    "ADDRESS":"One Allegheny Ave ",
     "Intersection Directions":"Across from Heinz Field",
     "City":"Pittsburgh",
     "State":"PA",
@@ -411,7 +411,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -423,8 +423,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Crowne Plaza - Tesla",
-    "Street Address":"4010 City Ave",
+    "NAME":"Crowne Plaza - Tesla",
+    "ADDRESS":"4010 City Ave",
     "Intersection Directions":"",
     "City":"Philadelphia",
     "State":"PA",
@@ -434,7 +434,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -446,8 +446,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Eaton Corp",
-    "Street Address":"130 Commonwealth Dr",
+    "NAME":"Eaton Corp",
+    "ADDRESS":"130 Commonwealth Dr",
     "Intersection Directions":"",
     "City":"Warrendale",
     "State":"PA",
@@ -457,7 +457,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":4,
     "EV DC Fast Count":1,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772 CHADEMO"
     }
   },
@@ -469,8 +469,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Giant Eagle - Settlers Ridge",
-    "Street Address":"100 Settlers Ridge Centre Dr",
+    "NAME":"Giant Eagle - Settlers Ridge",
+    "ADDRESS":"100 Settlers Ridge Centre Dr",
     "Intersection Directions":"Campbell Run Rd and Settler Ridge",
     "City":"Pittsburgh",
     "State":"PA",
@@ -480,7 +480,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -492,8 +492,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Walgreens - Philadelphia, PA #5522",
-    "Street Address":"1607 Bridge St",
+    "NAME":"Walgreens - Philadelphia, PA #5522",
+    "ADDRESS":"1607 Bridge St",
     "Intersection Directions":"",
     "City":"Philadelphia",
     "State":"PA",
@@ -503,7 +503,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"SemaCharge Network",
+    "EVNETWORK":"SemaCharge Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -515,8 +515,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"UPPER MERION TW",
-    "Street Address":"175 W Valley Forge Rd",
+    "NAME":"UPPER MERION TW",
+    "ADDRESS":"175 W Valley Forge Rd",
     "Intersection Directions":"STATION 3\nSTATION 2\nSTATION 4\nSTATION 1",
     "City":"King of Prussia",
     "State":"PA",
@@ -526,7 +526,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":4,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -538,8 +538,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Drexel University",
-    "Street Address":"115 N. 33rd Street",
+    "NAME":"Drexel University",
+    "ADDRESS":"115 N. 33rd Street",
     "Intersection Directions":"",
     "City":"Philadelphia",
     "State":"PA",
@@ -549,7 +549,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -561,8 +561,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Porsche Conshohocken",
-    "Street Address":"1316 Ridge Pike",
+    "NAME":"Porsche Conshohocken",
+    "ADDRESS":"1316 Ridge Pike",
     "Intersection Directions":"",
     "City":"Conshohocken",
     "State":"PA",
@@ -572,7 +572,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -584,8 +584,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Dunphy Motors",
-    "Street Address":"7700 Frankford Ave",
+    "NAME":"Dunphy Motors",
+    "ADDRESS":"7700 Frankford Ave",
     "Intersection Directions":"",
     "City":"Philadelphia",
     "State":"PA",
@@ -595,7 +595,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -607,8 +607,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Curbside City",
-    "Street Address":"16 George Street",
+    "NAME":"Curbside City",
+    "ADDRESS":"16 George Street",
     "Intersection Directions":"",
     "City":"York",
     "State":"PA",
@@ -618,7 +618,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":null,
     "EV DC Fast Count":1,
-    "EV Network":"eVgo Network",
+    "EVNETWORK":"eVgo Network",
     "EV Connector Types":"J1772COMBO"
     }
   },
@@ -630,8 +630,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"SUN MOTOR CARS",
-    "Street Address":"6691 Carlisle Pike",
+    "NAME":"SUN MOTOR CARS",
+    "ADDRESS":"6691 Carlisle Pike",
     "Intersection Directions":"STATION 01",
     "City":"Mechanicsburg",
     "State":"PA",
@@ -641,7 +641,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -653,8 +653,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"O'NEIL NISSAN",
-    "Street Address":"849 W. Street Rd.",
+    "NAME":"O'NEIL NISSAN",
+    "ADDRESS":"849 W. Street Rd.",
     "Intersection Directions":"QUICK CHARGER1; Located on the east side of the building between the showroom and the service drive through",
     "City":"Warminster",
     "State":"PA",
@@ -664,7 +664,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":null,
     "EV DC Fast Count":1,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"CHADEMO"
     }
   },
@@ -676,8 +676,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Tom Masano Ford Lincoln",
-    "Street Address":"1600 Lancaster Ave",
+    "NAME":"Tom Masano Ford Lincoln",
+    "ADDRESS":"1600 Lancaster Ave",
     "Intersection Directions":"",
     "City":"Reading",
     "State":"PA",
@@ -687,7 +687,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -699,8 +699,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Hampton Inn - Tesla",
-    "Street Address":"635 Lancaster Ave",
+    "NAME":"Hampton Inn - Tesla",
+    "ADDRESS":"635 Lancaster Ave",
     "Intersection Directions":"",
     "City":"Frazer",
     "State":"PA",
@@ -710,7 +710,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -722,8 +722,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Sheetz Store #523",
-    "Street Address":"4001 Union Deposit Rd",
+    "NAME":"Sheetz Store #523",
+    "ADDRESS":"4001 Union Deposit Rd",
     "Intersection Directions":"",
     "City":"Harrisburg",
     "State":"PA",
@@ -733,7 +733,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":null,
     "EV DC Fast Count":1,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"CHADEMO"
     }
   },
@@ -745,8 +745,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Alexander Nissan",
-    "Street Address":"10 Alexander Dr",
+    "NAME":"Alexander Nissan",
+    "ADDRESS":"10 Alexander Dr",
     "Intersection Directions":"",
     "City":"Muncy",
     "State":"PA",
@@ -756,7 +756,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -768,8 +768,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"The Sayre Mansion",
-    "Street Address":"250 Wyandotte St",
+    "NAME":"The Sayre Mansion",
+    "ADDRESS":"250 Wyandotte St",
     "Intersection Directions":"",
     "City":"Bethlehem",
     "State":"PA",
@@ -779,7 +779,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA J1772"
     }
   },
@@ -791,8 +791,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Walgreens - East Norriton, PA #7366",
-    "Street Address":"3308 Dekalb Pike",
+    "NAME":"Walgreens - East Norriton, PA #7366",
+    "ADDRESS":"3308 Dekalb Pike",
     "Intersection Directions":"",
     "City":"East Norriton",
     "State":"PA",
@@ -802,7 +802,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"SemaCharge Network",
+    "EVNETWORK":"SemaCharge Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -814,8 +814,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Tilghman Square Shopping Center - Tesla",
-    "Street Address":"4680 Broadway",
+    "NAME":"Tilghman Square Shopping Center - Tesla",
+    "ADDRESS":"4680 Broadway",
     "Intersection Directions":"",
     "City":"Allentown",
     "State":"PA",
@@ -825,7 +825,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":null,
     "EV DC Fast Count":8,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -837,8 +837,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"The Settlers Inn - Tesla",
-    "Street Address":"4 Main Ave",
+    "NAME":"The Settlers Inn - Tesla",
+    "ADDRESS":"4 Main Ave",
     "Intersection Directions":"",
     "City":"Hawley",
     "State":"PA",
@@ -848,7 +848,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -860,8 +860,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"STATION#1",
-    "Street Address":"700 Robbins St",
+    "NAME":"STATION#1",
+    "ADDRESS":"700 Robbins St",
     "Intersection Directions":"STATION1",
     "City":"Philadelphia",
     "State":"PA",
@@ -871,7 +871,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -883,8 +883,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Springfield Ford Lincoln",
-    "Street Address":"50 Baltimore Pike",
+    "NAME":"Springfield Ford Lincoln",
+    "ADDRESS":"50 Baltimore Pike",
     "Intersection Directions":"",
     "City":"Springfield",
     "State":"PA",
@@ -894,7 +894,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -906,8 +906,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Hilton Garden",
-    "Street Address":"720 Eagleview Drive",
+    "NAME":"Hilton Garden",
+    "ADDRESS":"720 Eagleview Drive",
     "Intersection Directions":"",
     "City":"Exton",
     "State":"PA",
@@ -917,7 +917,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"SemaCharge Network",
+    "EVNETWORK":"SemaCharge Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -929,8 +929,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"TANGER",
-    "Street Address":"311 Stanley K Tanger Dr",
+    "NAME":"TANGER",
+    "ADDRESS":"311 Stanley K Tanger Dr",
     "Intersection Directions":"LANCASTER EV1; In front of Johnston and Murphy near Shopper Services \nLANCASTER EV2; In front of Jared Vault near Shoppers Services",
     "City":"Lancaster",
     "State":"PA",
@@ -940,7 +940,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":4,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -952,8 +952,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"The Inn at Turkey Hill and Brewing Co - Tesla",
-    "Street Address":"991 Central Rd",
+    "NAME":"The Inn at Turkey Hill and Brewing Co - Tesla",
+    "ADDRESS":"991 Central Rd",
     "Intersection Directions":"",
     "City":"Bloomsburg",
     "State":"PA",
@@ -963,7 +963,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -975,8 +975,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"University of Pittsburgh Medical Center - Montefiore Hospital Parking Garage",
-    "Street Address":"Buffalo St",
+    "NAME":"University of Pittsburgh Medical Center - Montefiore Hospital Parking Garage",
+    "ADDRESS":"Buffalo St",
     "Intersection Directions":"Enter garage from main driveway (Buffalo) off of Terrace Street",
     "City":"Pittsburgh",
     "State":"PA",
@@ -986,7 +986,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -998,8 +998,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"VAHPA",
-    "Street Address":"1700 S Lincoln Ave",
+    "NAME":"VAHPA",
+    "ADDRESS":"1700 S Lincoln Ave",
     "Intersection Directions":"STATION1",
     "City":"Lebanon",
     "State":"PA",
@@ -1009,7 +1009,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -1021,8 +1021,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Willow Grove Shopping Center",
-    "Street Address":"30 Park Ave",
+    "NAME":"Willow Grove Shopping Center",
+    "ADDRESS":"30 Park Ave",
     "Intersection Directions":"",
     "City":"Willow Grove",
     "State":"PA",
@@ -1032,7 +1032,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":null,
     "EV DC Fast Count":1,
-    "EV Network":"eVgo Network",
+    "EVNETWORK":"eVgo Network",
     "EV Connector Types":"J1772COMBO"
     }
   },
@@ -1044,8 +1044,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"University of Pittsburgh Medical Center - Towerview Garage",
-    "Street Address":"1001 Fifth Ave",
+    "NAME":"University of Pittsburgh Medical Center - Towerview Garage",
+    "ADDRESS":"1001 Fifth Ave",
     "Intersection Directions":"",
     "City":"Pittsburgh",
     "State":"PA",
@@ -1055,7 +1055,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -1067,8 +1067,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Exxon - Lehigh Gas Station and Convenience Store",
-    "Street Address":"1419 W Main St",
+    "NAME":"Exxon - Lehigh Gas Station and Convenience Store",
+    "ADDRESS":"1419 W Main St",
     "Intersection Directions":"Charger located in front of the building. ",
     "City":"Lansdale",
     "State":"PA",
@@ -1078,7 +1078,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":4,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -1090,8 +1090,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Inn at Herr Ridge - Tesla",
-    "Street Address":"900 Chambersburg Rd",
+    "NAME":"Inn at Herr Ridge - Tesla",
+    "ADDRESS":"900 Chambersburg Rd",
     "Intersection Directions":"",
     "City":"Gettysburg",
     "State":"PA",
@@ -1101,7 +1101,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -1113,8 +1113,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"STATION175",
-    "Street Address":"Greenwood Ave",
+    "NAME":"STATION175",
+    "ADDRESS":"Greenwood Ave",
     "Intersection Directions":"175TAW; The station is in front of the main office",
     "City":"Wyncote",
     "State":"PA",
@@ -1124,7 +1124,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -1136,8 +1136,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"David L Lawrence Convention Center Garage",
-    "Street Address":"1000 Ft Duquesne Blvd",
+    "NAME":"David L Lawrence Convention Center Garage",
+    "ADDRESS":"1000 Ft Duquesne Blvd",
     "Intersection Directions":"",
     "City":"Pittsburgh",
     "State":"PA",
@@ -1147,7 +1147,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -1159,8 +1159,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Southport Plaza",
-    "Street Address":"1600 S Delaware Ave",
+    "NAME":"Southport Plaza",
+    "ADDRESS":"1600 S Delaware Ave",
     "Intersection Directions":"",
     "City":"Philadelphia",
     "State":"PA",
@@ -1170,7 +1170,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":null,
     "EV DC Fast Count":2,
-    "EV Network":"Greenlots",
+    "EVNETWORK":"Greenlots",
     "EV Connector Types":"CHADEMO J1772COMBO"
     }
   },
@@ -1182,8 +1182,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"ROYAL FARMS",
-    "Street Address":"105 S Stewart Ave",
+    "NAME":"ROYAL FARMS",
+    "ADDRESS":"105 S Stewart Ave",
     "Intersection Directions":"RFS 202 DC #1; DC Fast Charge, 100 mile range per hour of charging, SAE Combo connector for BMW i3 and VW e-Golf, located on left side of Royal Farms store",
     "City":"Ridley Park",
     "State":"PA",
@@ -1193,7 +1193,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":null,
     "EV DC Fast Count":1,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772COMBO"
     }
   },
@@ -1205,8 +1205,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"The Crossings Premium Outlets - Tesla",
-    "Street Address":"1000 Premium Outlets Dr",
+    "NAME":"The Crossings Premium Outlets - Tesla",
+    "ADDRESS":"1000 Premium Outlets Dr",
     "Intersection Directions":"",
     "City":"Tannersville",
     "State":"PA",
@@ -1216,7 +1216,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":null,
     "EV DC Fast Count":8,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -1228,8 +1228,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"The Mercersburg Inn - Tesla",
-    "Street Address":"405 S Main St",
+    "NAME":"The Mercersburg Inn - Tesla",
+    "ADDRESS":"405 S Main St",
     "Intersection Directions":"",
     "City":"Mercersburg",
     "State":"PA",
@@ -1239,7 +1239,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -1251,8 +1251,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Hilton Garden Inn - Tesla",
-    "Street Address":"815 E Baltimore Pike",
+    "NAME":"Hilton Garden Inn - Tesla",
+    "ADDRESS":"815 E Baltimore Pike",
     "Intersection Directions":"",
     "City":"Kennett Square",
     "State":"PA",
@@ -1262,7 +1262,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -1274,8 +1274,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"West Hills Nissan",
-    "Street Address":"7900 University Blvd",
+    "NAME":"West Hills Nissan",
+    "ADDRESS":"7900 University Blvd",
     "Intersection Directions":"",
     "City":"Coraopolis",
     "State":"PA",
@@ -1285,7 +1285,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":2,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772 CHADEMO"
     }
   },
@@ -1297,8 +1297,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"University of Pittsburgh Medical Center - Forbes Tower in Oakland",
-    "Street Address":"3600 Forbes Ave",
+    "NAME":"University of Pittsburgh Medical Center - Forbes Tower in Oakland",
+    "ADDRESS":"3600 Forbes Ave",
     "Intersection Directions":"",
     "City":"Pittsburgh",
     "State":"PA",
@@ -1308,7 +1308,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -1320,8 +1320,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Bowser Nissan",
-    "Street Address":"1001 Clairton Blvd",
+    "NAME":"Bowser Nissan",
+    "ADDRESS":"1001 Clairton Blvd",
     "Intersection Directions":"At intersection of Route 51 and Lewis Run Road.",
     "City":"Pleasant Hills",
     "State":"PA",
@@ -1331,7 +1331,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -1343,8 +1343,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Sunoco A-Plus Convenience Store",
-    "Street Address":"1201 Airport Blvd",
+    "NAME":"Sunoco A-Plus Convenience Store",
+    "ADDRESS":"1201 Airport Blvd",
     "Intersection Directions":"",
     "City":"Pittsburgh",
     "State":"PA",
@@ -1354,7 +1354,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":1,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772 CHADEMO"
     }
   },
@@ -1366,8 +1366,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"1825 Inn Bed and Breakfast - Tesla",
-    "Street Address":"409 S Lingle Ave",
+    "NAME":"1825 Inn Bed and Breakfast - Tesla",
+    "ADDRESS":"409 S Lingle Ave",
     "Intersection Directions":"",
     "City":"Palmyra",
     "State":"PA",
@@ -1377,7 +1377,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -1389,8 +1389,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"PARKWAY",
-    "Street Address":"1201 Filbert St",
+    "NAME":"PARKWAY",
+    "ADDRESS":"1201 Filbert St",
     "Intersection Directions":"12 & FILBERT 2; 3rd floor of parking garage\n12TH & FILBERT; 3rd level of parking garage",
     "City":"Philadelphia",
     "State":"PA",
@@ -1400,7 +1400,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -1412,8 +1412,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Times House Bed and Breakfast - Tesla",
-    "Street Address":"25 Race St",
+    "NAME":"Times House Bed and Breakfast - Tesla",
+    "ADDRESS":"25 Race St",
     "Intersection Directions":"",
     "City":"Jim Thorpe",
     "State":"PA",
@@ -1423,7 +1423,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -1435,8 +1435,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"1701 Market Street",
-    "Street Address":"1701 Market Street",
+    "NAME":"1701 Market Street",
+    "ADDRESS":"1701 Market Street",
     "Intersection Directions":"Primary entrance located on John F. Kennedy Blvd. Secondary entrance located on Market Street.",
     "City":"Philadelphia",
     "State":"PA",
@@ -1446,7 +1446,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"SemaCharge Network",
+    "EVNETWORK":"SemaCharge Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -1458,8 +1458,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"University of Pittsburgh Medical Center - Children's Hospital",
-    "Street Address":"4401 Penn Ave",
+    "NAME":"University of Pittsburgh Medical Center - Children's Hospital",
+    "ADDRESS":"4401 Penn Ave",
     "Intersection Directions":"",
     "City":"Pittsburgh",
     "State":"PA",
@@ -1469,7 +1469,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -1481,8 +1481,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Best Western Plus Towanda Inn - Tesla",
-    "Street Address":"44 Pearce Ln",
+    "NAME":"Best Western Plus Towanda Inn - Tesla",
+    "ADDRESS":"44 Pearce Ln",
     "Intersection Directions":"",
     "City":"Towanda",
     "State":"PA",
@@ -1492,7 +1492,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -1504,8 +1504,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Maguire's Nissan - Lebanon",
-    "Street Address":"2001 Cumberland St",
+    "NAME":"Maguire's Nissan - Lebanon",
+    "ADDRESS":"2001 Cumberland St",
     "Intersection Directions":"",
     "City":"Lebanon",
     "State":"PA",
@@ -1515,7 +1515,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -1527,8 +1527,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Adam Solar Rides",
-    "Street Address":"1912 Mayview Rd",
+    "NAME":"Adam Solar Rides",
+    "ADDRESS":"1912 Mayview Rd",
     "Intersection Directions":"",
     "City":"Bridgeville",
     "State":"PA",
@@ -1538,7 +1538,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -1550,8 +1550,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Wendy's - Tesla",
-    "Street Address":"1030 N Center Ave",
+    "NAME":"Wendy's - Tesla",
+    "ADDRESS":"1030 N Center Ave",
     "Intersection Directions":"I-76 Exit 110",
     "City":"Somerset",
     "State":"PA",
@@ -1561,7 +1561,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":null,
     "EV DC Fast Count":6,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -1573,8 +1573,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Faulkner Nissan",
-    "Street Address":"3925 Paxton St",
+    "NAME":"Faulkner Nissan",
+    "ADDRESS":"3925 Paxton St",
     "Intersection Directions":"",
     "City":"Harrisburg",
     "State":"PA",
@@ -1584,7 +1584,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -1596,8 +1596,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Phipps Conservatory and Botanical Gardens",
-    "Street Address":"1 Schenely Dr",
+    "NAME":"Phipps Conservatory and Botanical Gardens",
+    "ADDRESS":"1 Schenely Dr",
     "Intersection Directions":"",
     "City":"Pittsburgh",
     "State":"PA",
@@ -1607,7 +1607,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -1619,8 +1619,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Courtesy Motor Sales",
-    "Street Address":"3100 Pleasant Valley Blvd",
+    "NAME":"Courtesy Motor Sales",
+    "ADDRESS":"3100 Pleasant Valley Blvd",
     "Intersection Directions":"",
     "City":"Altoona",
     "State":"PA",
@@ -1630,7 +1630,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -1642,8 +1642,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Furnace Garage",
-    "Street Address":"536 S. 28th St.",
+    "NAME":"Furnace Garage",
+    "ADDRESS":"536 S. 28th St.",
     "Intersection Directions":"When entering Furnace Garage, use the \nright lane and bear to the right (do \nnot drive up the ramp).  The charging \nstation will be to the right - next to \nthe generator room.\n",
     "City":"Pittsburgh",
     "State":"PA",
@@ -1653,7 +1653,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -1665,8 +1665,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Exton Nissan",
-    "Street Address":"200 W Lincoln Hwy",
+    "NAME":"Exton Nissan",
+    "ADDRESS":"200 W Lincoln Hwy",
     "Intersection Directions":"",
     "City":"Exton",
     "State":"PA",
@@ -1676,7 +1676,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -1688,8 +1688,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Holiday Inn - Monroeville",
-    "Street Address":"2750 Mosside Blvd",
+    "NAME":"Holiday Inn - Monroeville",
+    "ADDRESS":"2750 Mosside Blvd",
     "Intersection Directions":"",
     "City":"Monroeville",
     "State":"PA",
@@ -1699,7 +1699,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -1711,8 +1711,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Lankenau Medical Center Parking Garage A",
-    "Street Address":"100 East Lancaster Avenue",
+    "NAME":"Lankenau Medical Center Parking Garage A",
+    "ADDRESS":"100 East Lancaster Avenue",
     "Intersection Directions":"Lower Level\n",
     "City":"Wynnewood",
     "State":"PA",
@@ -1722,7 +1722,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -1734,8 +1734,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Interstate Mitsubishi",
-    "Street Address":"6969 Edinboro Rd",
+    "NAME":"Interstate Mitsubishi",
+    "ADDRESS":"6969 Edinboro Rd",
     "Intersection Directions":"Under canopy facing Route 99",
     "City":"Erie",
     "State":"PA",
@@ -1745,7 +1745,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -1757,8 +1757,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Star Nissan",
-    "Street Address":"5200 State Route 30",
+    "NAME":"Star Nissan",
+    "ADDRESS":"5200 State Route 30",
     "Intersection Directions":"",
     "City":"Greensburg",
     "State":"PA",
@@ -1768,7 +1768,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -1780,8 +1780,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Eisenhauer Nissan",
-    "Street Address":"6345 Penn Ave",
+    "NAME":"Eisenhauer Nissan",
+    "ADDRESS":"6345 Penn Ave",
     "Intersection Directions":"",
     "City":"Wernersville",
     "State":"PA",
@@ -1791,7 +1791,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -1803,8 +1803,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Lankenau Medical Center Parking Garage B",
-    "Street Address":"100 East Lancaster Avenue",
+    "NAME":"Lankenau Medical Center Parking Garage B",
+    "ADDRESS":"100 East Lancaster Avenue",
     "Intersection Directions":"Ground Level\n",
     "City":"Wynnewood",
     "State":"PA",
@@ -1814,7 +1814,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -1826,8 +1826,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"University of Pittsburgh - Soldiers and Sailors Garage",
-    "Street Address":"4104 Fifth Ave",
+    "NAME":"University of Pittsburgh - Soldiers and Sailors Garage",
+    "ADDRESS":"4104 Fifth Ave",
     "Intersection Directions":"",
     "City":"Pittsburgh",
     "State":"PA",
@@ -1837,7 +1837,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":6,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -1849,8 +1849,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Carlisle House Bed and Breakfast - Tesla",
-    "Street Address":"148 S Hanover St",
+    "NAME":"Carlisle House Bed and Breakfast - Tesla",
+    "ADDRESS":"148 S Hanover St",
     "Intersection Directions":"",
     "City":"Carlisle",
     "State":"PA",
@@ -1860,7 +1860,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -1872,8 +1872,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Rothrock Motor Sales",
-    "Street Address":"1648 Plaza Ln",
+    "NAME":"Rothrock Motor Sales",
+    "ADDRESS":"1648 Plaza Ln",
     "Intersection Directions":"Intersection of Route 22 and 15th Street.",
     "City":"Allentown",
     "State":"PA",
@@ -1883,7 +1883,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -1895,8 +1895,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Electric Garage - Carnegie Mellon University",
-    "Street Address":"4621 Forbes Ave",
+    "NAME":"Electric Garage - Carnegie Mellon University",
+    "ADDRESS":"4621 Forbes Ave",
     "Intersection Directions":"East of Craig St on Forbes Ave",
     "City":"Pittsburgh",
     "State":"PA",
@@ -1906,7 +1906,7 @@ var chargers = {
     "EV Level1 EVSE Num":6,
     "EV Level2 EVSE Num":7,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"NEMA520 J1772 TESLA"
     }
   },
@@ -1918,8 +1918,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Dunkin Donuts - Freeport Rd",
-    "Street Address":"2725 Freeport Rd",
+    "NAME":"Dunkin Donuts - Freeport Rd",
+    "ADDRESS":"2725 Freeport Rd",
     "Intersection Directions":"",
     "City":"Pittsburgh",
     "State":"PA",
@@ -1929,7 +1929,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":null,
     "EV DC Fast Count":1,
-    "EV Network":"eVgo Network",
+    "EVNETWORK":"eVgo Network",
     "EV Connector Types":"J1772COMBO"
     }
   },
@@ -1941,8 +1941,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Lancaster Nissan",
-    "Street Address":"5340 Manheim Pike",
+    "NAME":"Lancaster Nissan",
+    "ADDRESS":"5340 Manheim Pike",
     "Intersection Directions":"",
     "City":"East Petersburg",
     "State":"PA",
@@ -1952,7 +1952,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":1,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772 CHADEMO"
     }
   },
@@ -1964,8 +1964,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"University of Pittsburgh Medical Center - Shadyside South Aiken Garage",
-    "Street Address":"S Aiken Ave",
+    "NAME":"University of Pittsburgh Medical Center - Shadyside South Aiken Garage",
+    "ADDRESS":"S Aiken Ave",
     "Intersection Directions":"",
     "City":"Pittsburgh",
     "State":"PA",
@@ -1975,7 +1975,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -1987,8 +1987,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"NEW MOTORS BMW",
-    "Street Address":"8636 US-19",
+    "NAME":"NEW MOTORS BMW",
+    "ADDRESS":"8636 US-19",
     "Intersection Directions":"STATION 01",
     "City":"Erie",
     "State":"PA",
@@ -1998,7 +1998,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -2010,8 +2010,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"SpringHill Suites - Tesla",
-    "Street Address":"2087 Interchange Rd",
+    "NAME":"SpringHill Suites - Tesla",
+    "ADDRESS":"2087 Interchange Rd",
     "Intersection Directions":"",
     "City":"Erie",
     "State":"PA",
@@ -2021,7 +2021,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -2033,8 +2033,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Fred Beans Ford",
-    "Street Address":"876 N Easton Rd",
+    "NAME":"Fred Beans Ford",
+    "ADDRESS":"876 N Easton Rd",
     "Intersection Directions":"",
     "City":"Doylestown",
     "State":"PA",
@@ -2044,7 +2044,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -2056,8 +2056,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Consol  Energy ",
-    "Street Address":"1000 Consol Energy Dr ",
+    "NAME":"Consol  Energy ",
+    "ADDRESS":"1000 Consol Energy Dr ",
     "Intersection Directions":"",
     "City":"Canonsburg",
     "State":"PA",
@@ -2067,7 +2067,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -2079,8 +2079,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Carnegie Museums of Pittsburgh",
-    "Street Address":"4400 Forbes Ave",
+    "NAME":"Carnegie Museums of Pittsburgh",
+    "ADDRESS":"4400 Forbes Ave",
     "Intersection Directions":"Forbes Ave and Craig St",
     "City":"Pittsburgh",
     "State":"PA",
@@ -2090,7 +2090,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -2102,8 +2102,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Lehigh Carbon Community College",
-    "Street Address":"4525 Education Park Dr",
+    "NAME":"Lehigh Carbon Community College",
+    "ADDRESS":"4525 Education Park Dr",
     "Intersection Directions":"",
     "City":"Schnecksville",
     "State":"PA",
@@ -2113,7 +2113,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":10,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -2125,8 +2125,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"King of Prussia Mall",
-    "Street Address":"160 N. Gulph Road",
+    "NAME":"King of Prussia Mall",
+    "ADDRESS":"160 N. Gulph Road",
     "Intersection Directions":"",
     "City":"King of Prussia",
     "State":"PA",
@@ -2136,7 +2136,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -2148,8 +2148,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"County Line Restaurant - Tesla",
-    "Street Address":"14206 Route 35",
+    "NAME":"County Line Restaurant - Tesla",
+    "ADDRESS":"14206 Route 35",
     "Intersection Directions":"",
     "City":"Richfield",
     "State":"PA",
@@ -2159,7 +2159,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -2171,8 +2171,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Wilson College Science Center",
-    "Street Address":"  1015 Philadelphia Ave",
+    "NAME":"Wilson College Science Center",
+    "ADDRESS":"  1015 Philadelphia Ave",
     "Intersection Directions":"Located in Lot I",
     "City":"Chambersburg",
     "State":"PA",
@@ -2182,7 +2182,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -2194,8 +2194,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"IBEW Local Union 98",
-    "Street Address":"1719 Spring Garden St",
+    "NAME":"IBEW Local Union 98",
+    "ADDRESS":"1719 Spring Garden St",
     "Intersection Directions":"Rear parking lot of training building",
     "City":"Philadelphia",
     "State":"PA",
@@ -2205,7 +2205,7 @@ var chargers = {
     "EV Level1 EVSE Num":1,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"NEMA520 J1772"
     }
   },
@@ -2217,8 +2217,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"University of Pittsburgh Medical Center - Presbyterian Hospital Parking Garage",
-    "Street Address":"255 Lothrop St",
+    "NAME":"University of Pittsburgh Medical Center - Presbyterian Hospital Parking Garage",
+    "ADDRESS":"255 Lothrop St",
     "Intersection Directions":"Lothrop and Terrace Street, enter garage off of Lothrop St",
     "City":"Pittsburgh",
     "State":"PA",
@@ -2228,7 +2228,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -2240,8 +2240,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Baum Blvd Automotive",
-    "Street Address":"4741 Baum Blvd",
+    "NAME":"Baum Blvd Automotive",
+    "ADDRESS":"4741 Baum Blvd",
     "Intersection Directions":"Baum Blvd & Bigelow Blvd",
     "City":"Pittsburgh",
     "State":"PA",
@@ -2251,7 +2251,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -2263,8 +2263,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Bucks County Specialty Care Center",
-    "Street Address":"500 West Butler Avenue",
+    "NAME":"Bucks County Specialty Care Center",
+    "ADDRESS":"500 West Butler Avenue",
     "Intersection Directions":"",
     "City":"Chalfont",
     "State":"PA",
@@ -2274,7 +2274,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -2286,8 +2286,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Tara A Country Inn - Tesla",
-    "Street Address":"2844 Lake Rd",
+    "NAME":"Tara A Country Inn - Tesla",
+    "ADDRESS":"2844 Lake Rd",
     "Intersection Directions":"",
     "City":"Sharpsville",
     "State":"PA",
@@ -2297,7 +2297,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -2309,8 +2309,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Beaver County Nissan",
-    "Street Address":"2777 Constitution Blvd",
+    "NAME":"Beaver County Nissan",
+    "ADDRESS":"2777 Constitution Blvd",
     "Intersection Directions":"",
     "City":"Beaver Falls",
     "State":"PA",
@@ -2320,7 +2320,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -2332,8 +2332,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"The Franklin Institute",
-    "Street Address":"222 North 20th  Street",
+    "NAME":"The Franklin Institute",
+    "ADDRESS":"222 North 20th  Street",
     "Intersection Directions":"",
     "City":"Philadelphia",
     "State":"PA",
@@ -2343,7 +2343,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -2355,8 +2355,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"HIGH HOTELS",
-    "Street Address":"545 Greenfield Rd",
+    "NAME":"HIGH HOTELS",
+    "ADDRESS":"545 Greenfield Rd",
     "Intersection Directions":"LH EV CHARGER; Please see Front Desk Staff for access card,",
     "City":"Lancaster",
     "State":"PA",
@@ -2366,7 +2366,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -2378,8 +2378,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"PARKWAY",
-    "Street Address":"300 S Broad St",
+    "NAME":"PARKWAY",
+    "ADDRESS":"300 S Broad St",
     "Intersection Directions":"RPAC; Lower level parking- RPAC",
     "City":"Philadelphia",
     "State":"PA",
@@ -2389,7 +2389,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -2401,8 +2401,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Hamanassett Bed and Breakfast - Tesla",
-    "Street Address":"115 Indian Spring Rd",
+    "NAME":"Hamanassett Bed and Breakfast - Tesla",
+    "ADDRESS":"115 Indian Spring Rd",
     "Intersection Directions":"",
     "City":"Media",
     "State":"PA",
@@ -2412,7 +2412,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -2424,8 +2424,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Marine Center - Pier 19 Dave & Busters Location",
-    "Street Address":"325 N Columbus Blvd",
+    "NAME":"Marine Center - Pier 19 Dave & Busters Location",
+    "ADDRESS":"325 N Columbus Blvd",
     "Intersection Directions":"",
     "City":"Philadelphia",
     "State":"PA",
@@ -2435,7 +2435,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -2447,8 +2447,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Brian Hoskins Ford",
-    "Street Address":"2601 E Lincoln Hwy",
+    "NAME":"Brian Hoskins Ford",
+    "ADDRESS":"2601 E Lincoln Hwy",
     "Intersection Directions":"",
     "City":"Coatesville",
     "State":"PA",
@@ -2458,7 +2458,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -2470,8 +2470,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Philadelphia Mills",
-    "Street Address":"1455 Franklin Mills Cir",
+    "NAME":"Philadelphia Mills",
+    "ADDRESS":"1455 Franklin Mills Cir",
     "Intersection Directions":"",
     "City":"Philadelphia",
     "State":"PA",
@@ -2481,7 +2481,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":1,
-    "EV Network":"eVgo Network",
+    "EVNETWORK":"eVgo Network",
     "EV Connector Types":"J1772 J1772COMBO"
     }
   },
@@ -2493,8 +2493,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Chapman Northeast Ford",
-    "Street Address":"9371 Roosevelt Blvd",
+    "NAME":"Chapman Northeast Ford",
+    "ADDRESS":"9371 Roosevelt Blvd",
     "Intersection Directions":"",
     "City":"Philadelphia",
     "State":"PA",
@@ -2504,7 +2504,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -2516,8 +2516,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"BMW OF DEVON",
-    "Street Address":"2-58 E Lancaster Ave",
+    "NAME":"BMW OF DEVON",
+    "ADDRESS":"2-58 E Lancaster Ave",
     "Intersection Directions":"STATION 01",
     "City":"Devon",
     "State":"PA",
@@ -2527,7 +2527,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -2539,8 +2539,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"King's Cottage Bed and Breakfast",
-    "Street Address":"1049 E King St",
+    "NAME":"King's Cottage Bed and Breakfast",
+    "ADDRESS":"1049 E King St",
     "Intersection Directions":"",
     "City":"Lancaster",
     "State":"PA",
@@ -2550,7 +2550,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA J1772"
     }
   },
@@ -2562,8 +2562,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"STATION 1",
-    "Street Address":"805 Fraternity Road",
+    "NAME":"STATION 1",
+    "ADDRESS":"805 Fraternity Road",
     "Intersection Directions":"BUCKNELL",
     "City":"Lewisburg",
     "State":"PA",
@@ -2573,7 +2573,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -2585,8 +2585,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"American Power Net Office",
-    "Street Address":"45 Commerce Dr",
+    "NAME":"American Power Net Office",
+    "ADDRESS":"45 Commerce Dr",
     "Intersection Directions":"",
     "City":"Wyomissing",
     "State":"PA",
@@ -2596,7 +2596,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -2608,8 +2608,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Main Line Animal Rescue",
-    "Street Address":"1149 Pike Springs Road",
+    "NAME":"Main Line Animal Rescue",
+    "ADDRESS":"1149 Pike Springs Road",
     "Intersection Directions":"",
     "City":"Phoenixville",
     "State":"PA",
@@ -2619,7 +2619,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -2631,8 +2631,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"LOGAN SQUARE",
-    "Street Address":"1815 Cherry St",
+    "NAME":"LOGAN SQUARE",
+    "ADDRESS":"1815 Cherry St",
     "Intersection Directions":"CHERRYST GARAGE; Floor 1, Next to Cherry St. Entrance",
     "City":"Philadelphia",
     "State":"PA",
@@ -2642,7 +2642,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -2654,8 +2654,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Country Inn and Suites - Tesla",
-    "Street Address":"1257 E College Ave",
+    "NAME":"Country Inn and Suites - Tesla",
+    "ADDRESS":"1257 E College Ave",
     "Intersection Directions":"",
     "City":"State College",
     "State":"PA",
@@ -2665,7 +2665,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -2677,8 +2677,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"GOOGLE",
-    "Street Address":"6425 Penn Ave",
+    "NAME":"GOOGLE",
+    "ADDRESS":"6425 Penn Ave",
     "Intersection Directions":"PIT-BAK-02; Charging restricted to Bakery Square tenants (bus. hours)\nPIT-BAK-01; Charging restricted to Bakery Square tenants (bus. hours)\nPIT-BAK-04; Charging restricted to Bakery Square tenants (bus. hours)\nPIT-BAK-03; Charging restricted to Bakery Square tenants (bus. hours)",
     "City":"Pittsburgh",
     "State":"PA",
@@ -2688,7 +2688,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":8,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -2700,8 +2700,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Greenfield Corporate Center",
-    "Street Address":"1862 Charter Ln",
+    "NAME":"Greenfield Corporate Center",
+    "ADDRESS":"1862 Charter Ln",
     "Intersection Directions":"Charger located on the bottom floor of the building's lot. ",
     "City":"Lancaster",
     "State":"PA",
@@ -2711,7 +2711,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -2723,8 +2723,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"DD - Aliquippa",
-    "Street Address":"2658 Broadhead Road",
+    "NAME":"DD - Aliquippa",
+    "ADDRESS":"2658 Broadhead Road",
     "Intersection Directions":"",
     "City":"Aliquippa",
     "State":"PA",
@@ -2734,7 +2734,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":null,
     "EV DC Fast Count":1,
-    "EV Network":"eVgo Network",
+    "EVNETWORK":"eVgo Network",
     "EV Connector Types":"J1772COMBO"
     }
   },
@@ -2746,8 +2746,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"SECOND & STATE",
-    "Street Address":"409-477 N 2nd St",
+    "NAME":"SECOND & STATE",
+    "ADDRESS":"409-477 N 2nd St",
     "Intersection Directions":"2ND & STATE; Located in Front of 409 North Second Street, near corner of Second & State",
     "City":"Harrisburg",
     "State":"PA",
@@ -2757,7 +2757,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -2769,8 +2769,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"CHARGE POINT",
-    "Street Address":"3999 West Chester Pike",
+    "NAME":"CHARGE POINT",
+    "ADDRESS":"3999 West Chester Pike",
     "Intersection Directions":"SAP AMERICA; EV Parking Only available for use by the employees, registered guests and providers of SAP America",
     "City":"Newtown Square",
     "State":"PA",
@@ -2780,7 +2780,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -2792,8 +2792,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Marine Center - Pier #24",
-    "Street Address":"401 N Columbus Blvd",
+    "NAME":"Marine Center - Pier #24",
+    "ADDRESS":"401 N Columbus Blvd",
     "Intersection Directions":"Marine Center - Pier #24 North Parking \nLot\n",
     "City":"Philadelphia",
     "State":"PA",
@@ -2803,7 +2803,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -2815,8 +2815,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Kenny Ross Nissan",
-    "Street Address":"22030 Route 19",
+    "NAME":"Kenny Ross Nissan",
+    "ADDRESS":"22030 Route 19",
     "Intersection Directions":"Perry Highway",
     "City":"Zelienople",
     "State":"PA",
@@ -2826,7 +2826,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":1,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772 CHADEMO"
     }
   },
@@ -2838,8 +2838,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"THOMPSON BMW",
-    "Street Address":"700 N Easton Rd",
+    "NAME":"THOMPSON BMW",
+    "ADDRESS":"700 N Easton Rd",
     "Intersection Directions":"STATION 01",
     "City":"Doylestown",
     "State":"PA",
@@ -2849,7 +2849,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -2861,8 +2861,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Walgreens - Philadelphia, PA #6895",
-    "Street Address":"300 N 63rd St",
+    "NAME":"Walgreens - Philadelphia, PA #6895",
+    "ADDRESS":"300 N 63rd St",
     "Intersection Directions":"",
     "City":"Philadelphia",
     "State":"PA",
@@ -2872,7 +2872,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"SemaCharge Network",
+    "EVNETWORK":"SemaCharge Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -2884,8 +2884,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"The Inn at Leola Village - Tesla",
-    "Street Address":"38 Deborah Dr",
+    "NAME":"The Inn at Leola Village - Tesla",
+    "ADDRESS":"38 Deborah Dr",
     "Intersection Directions":"",
     "City":"Leola",
     "State":"PA",
@@ -2895,7 +2895,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -2907,8 +2907,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Holiday Inn - Bentleyville",
-    "Street Address":"25 Smita Ln",
+    "NAME":"Holiday Inn - Bentleyville",
+    "ADDRESS":"25 Smita Ln",
     "Intersection Directions":"",
     "City":"Bentleyville",
     "State":"PA",
@@ -2918,7 +2918,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -2930,8 +2930,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"University of Pittsburgh Medical Center - Magee",
-    "Street Address":"300 Halket St",
+    "NAME":"University of Pittsburgh Medical Center - Magee",
+    "ADDRESS":"300 Halket St",
     "Intersection Directions":"",
     "City":"Pittsburgh",
     "State":"PA",
@@ -2941,7 +2941,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -2953,8 +2953,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Concordville Nissan",
-    "Street Address":"452 Wilmington W Chester Pike",
+    "NAME":"Concordville Nissan",
+    "ADDRESS":"452 Wilmington W Chester Pike",
     "Intersection Directions":"",
     "City":"Glen Mills",
     "State":"PA",
@@ -2964,7 +2964,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -2976,8 +2976,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"BARNES",
-    "Street Address":"2025 Benjamin Franklin Pkwy",
+    "NAME":"BARNES",
+    "ADDRESS":"2025 Benjamin Franklin Pkwy",
     "Intersection Directions":"FOUNDATION #1; Located in parking lot NE corner\nFOUNDATION #3; Located in parking lot NE corner access through gates\nFOUNDATION #2; Located in parking lot NE corner access through gates",
     "City":"Philadelphia",
     "State":"PA",
@@ -2987,7 +2987,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":3,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -2999,8 +2999,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Giant Eagle - Pine Township",
-    "Street Address":"155 Towne Center Dr",
+    "NAME":"Giant Eagle - Pine Township",
+    "ADDRESS":"155 Towne Center Dr",
     "Intersection Directions":"",
     "City":"Wexford",
     "State":"PA",
@@ -3010,7 +3010,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -3022,8 +3022,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Porreco Nissan",
-    "Street Address":"8890 Peach St",
+    "NAME":"Porreco Nissan",
+    "ADDRESS":"8890 Peach St",
     "Intersection Directions":"",
     "City":"Erie",
     "State":"PA",
@@ -3033,7 +3033,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -3045,8 +3045,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Sunoco APlus - Pittsburgh Airport",
-    "Street Address":"1201 Airport Blvd",
+    "NAME":"Sunoco APlus - Pittsburgh Airport",
+    "ADDRESS":"1201 Airport Blvd",
     "Intersection Directions":"",
     "City":"Pittsburgh",
     "State":"PA",
@@ -3056,7 +3056,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":1,
-    "EV Network":"Greenlots",
+    "EVNETWORK":"Greenlots",
     "EV Connector Types":"J1772 CHADEMO"
     }
   },
@@ -3068,8 +3068,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"The French Manor Inn and Spa - Tesla",
-    "Street Address":"50 Huntingdon Dr",
+    "NAME":"The French Manor Inn and Spa - Tesla",
+    "ADDRESS":"50 Huntingdon Dr",
     "Intersection Directions":"",
     "City":"Newfoundland",
     "State":"PA",
@@ -3079,7 +3079,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -3091,8 +3091,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"PPA AIRPORT EV",
-    "Street Address":"4400 Island Ave",
+    "NAME":"PPA AIRPORT EV",
+    "ADDRESS":"4400 Island Ave",
     "Intersection Directions":"ECONOMY LOT 1; Adjacent to the Economy Toll plaza. Parking is only permitted if the car is plugged in.\nECONOMY LOT 2; Adjacent to the Economy Toll plaza. Parking is only permitted if the car is plugged in.",
     "City":"Philadelphia",
     "State":"PA",
@@ -3102,7 +3102,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":4,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -3114,8 +3114,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Montrose Nissan",
-    "Street Address":"1455 N Hermitage Rd",
+    "NAME":"Montrose Nissan",
+    "ADDRESS":"1455 N Hermitage Rd",
     "Intersection Directions":"",
     "City":"Hermitage",
     "State":"PA",
@@ -3125,7 +3125,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -3137,8 +3137,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Colonial Nissan",
-    "Street Address":"117 Bustleton Pike",
+    "NAME":"Colonial Nissan",
+    "ADDRESS":"117 Bustleton Pike",
     "Intersection Directions":"",
     "City":"Feasterville",
     "State":"PA",
@@ -3148,7 +3148,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -3160,8 +3160,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Carlisle House Bed & Breakfast",
-    "Street Address":"148 S Hanover St",
+    "NAME":"Carlisle House Bed & Breakfast",
+    "ADDRESS":"148 S Hanover St",
     "Intersection Directions":"Located at S Hanover St and W South St",
     "City":"Carlisle",
     "State":"PA",
@@ -3171,7 +3171,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"J1772 TESLA"
     }
   },
@@ -3183,8 +3183,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"BMWOFREADING",
-    "Street Address":"1015 Lancaster Ave",
+    "NAME":"BMWOFREADING",
+    "ADDRESS":"1015 Lancaster Ave",
     "Intersection Directions":"STATION 01",
     "City":"Reading",
     "State":"PA",
@@ -3194,7 +3194,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -3206,8 +3206,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"University of Pennsylvania",
-    "Street Address":"3386 Chestnut Street",
+    "NAME":"University of Pennsylvania",
+    "ADDRESS":"3386 Chestnut Street",
     "Intersection Directions":"",
     "City":"Philadelphia",
     "State":"PA",
@@ -3217,7 +3217,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":4,
     "EV DC Fast Count":null,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -3229,8 +3229,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"DD - Etna",
-    "Street Address":"911 Butler Street",
+    "NAME":"DD - Etna",
+    "ADDRESS":"911 Butler Street",
     "Intersection Directions":"",
     "City":"Etna",
     "State":"PA",
@@ -3240,7 +3240,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":null,
     "EV DC Fast Count":1,
-    "EV Network":"eVgo Network",
+    "EVNETWORK":"eVgo Network",
     "EV Connector Types":"J1772COMBO"
     }
   },
@@ -3252,8 +3252,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"P & W BMW",
-    "Street Address":"837-899 S Millvale Ave",
+    "NAME":"P & W BMW",
+    "ADDRESS":"837-899 S Millvale Ave",
     "Intersection Directions":"STATION 01",
     "City":"Pittsburgh",
     "State":"PA",
@@ -3263,7 +3263,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -3275,8 +3275,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Woodlyn Exxon",
-    "Street Address":"1229 MacDade Blvd",
+    "NAME":"Woodlyn Exxon",
+    "ADDRESS":"1229 MacDade Blvd",
     "Intersection Directions":"",
     "City":"Woodlyn",
     "State":"PA",
@@ -3286,7 +3286,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -3298,8 +3298,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Historic Smithton Inn",
-    "Street Address":"900 W Main St",
+    "NAME":"Historic Smithton Inn",
+    "ADDRESS":"900 W Main St",
     "Intersection Directions":"",
     "City":"Ephrata",
     "State":"PA",
@@ -3309,7 +3309,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA J1772"
     }
   },
@@ -3321,8 +3321,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Biber's Garage",
-    "Street Address":"1250 McKee Rd",
+    "NAME":"Biber's Garage",
+    "ADDRESS":"1250 McKee Rd",
     "Intersection Directions":"",
     "City":"Oakdale",
     "State":"PA",
@@ -3332,7 +3332,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -3344,8 +3344,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"University of Pittsburgh Medical Center - St Margaret's Parking Lot",
-    "Street Address":"815 Freeport Rd",
+    "NAME":"University of Pittsburgh Medical Center - St Margaret's Parking Lot",
+    "ADDRESS":"815 Freeport Rd",
     "Intersection Directions":"",
     "City":"Pittsburgh",
     "State":"PA",
@@ -3355,7 +3355,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -3367,8 +3367,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Fairville Inn - Tesla",
-    "Street Address":"506 Kennett Pike",
+    "NAME":"Fairville Inn - Tesla",
+    "ADDRESS":"506 Kennett Pike",
     "Intersection Directions":"",
     "City":"Chadds Ford",
     "State":"PA",
@@ -3378,7 +3378,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -3390,8 +3390,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"One Parkway (City of Philadelphia)",
-    "Street Address":"1515 Arch Street",
+    "NAME":"One Parkway (City of Philadelphia)",
+    "ADDRESS":"1515 Arch Street",
     "Intersection Directions":"",
     "City":"Philadelphia",
     "State":"PA",
@@ -3401,7 +3401,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -3413,8 +3413,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Sheetz Store #187",
-    "Street Address":"400 E Plank RD",
+    "NAME":"Sheetz Store #187",
+    "ADDRESS":"400 E Plank RD",
     "Intersection Directions":"",
     "City":"Altoona",
     "State":"PA",
@@ -3424,7 +3424,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":null,
     "EV DC Fast Count":1,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"CHADEMO"
     }
   },
@@ -3436,8 +3436,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Robinson Mall",
-    "Street Address":"100 Robinson Centre",
+    "NAME":"Robinson Mall",
+    "ADDRESS":"100 Robinson Centre",
     "Intersection Directions":"",
     "City":"Pittsburgh",
     "State":"PA",
@@ -3447,7 +3447,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":4,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -3459,8 +3459,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"CARCHARGING",
-    "Street Address":"301 West Station Square Drive",
+    "NAME":"CARCHARGING",
+    "ADDRESS":"301 West Station Square Drive",
     "Intersection Directions":"STATION SQUARE; Enter garage and make first right. Station in first spot.",
     "City":"Pittsburgh",
     "State":"PA",
@@ -3470,7 +3470,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -3482,8 +3482,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"University of Pittsburgh Medical Center - Hillman Center",
-    "Street Address":"5230 Centre Ave",
+    "NAME":"University of Pittsburgh Medical Center - Hillman Center",
+    "ADDRESS":"5230 Centre Ave",
     "Intersection Directions":"",
     "City":"Pittsburgh",
     "State":"PA",
@@ -3493,7 +3493,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -3505,8 +3505,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"OTTOS BMW",
-    "Street Address":"1275 Wilmington Pike",
+    "NAME":"OTTOS BMW",
+    "ADDRESS":"1275 Wilmington Pike",
     "Intersection Directions":"STATION 01; -",
     "City":"West Chester",
     "State":"PA",
@@ -3516,7 +3516,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -3528,8 +3528,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"AACA Antique Automobile Museum",
-    "Street Address":"161 Museum Dr",
+    "NAME":"AACA Antique Automobile Museum",
+    "ADDRESS":"161 Museum Dr",
     "Intersection Directions":"",
     "City":"Hummelstown",
     "State":"PA",
@@ -3539,7 +3539,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":3,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA J1772"
     }
   },
@@ -3551,8 +3551,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Giant Eagle - Ames Plaza",
-    "Street Address":"4010 Monroeville Blvd",
+    "NAME":"Giant Eagle - Ames Plaza",
+    "ADDRESS":"4010 Monroeville Blvd",
     "Intersection Directions":"",
     "City":"Monroeville",
     "State":"PA",
@@ -3562,7 +3562,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -3574,8 +3574,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Hollinger House Bed and Breakfast - Tesla",
-    "Street Address":"2336 Hollinger Rd",
+    "NAME":"Hollinger House Bed and Breakfast - Tesla",
+    "ADDRESS":"2336 Hollinger Rd",
     "Intersection Directions":"",
     "City":"Lancaster",
     "State":"PA",
@@ -3585,7 +3585,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -3597,8 +3597,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"WASHINGTON",
-    "Street Address":"2200 Tanger Blvd",
+    "NAME":"WASHINGTON",
+    "ADDRESS":"2200 Tanger Blvd",
     "Intersection Directions":"TANGER EV 1; I-79, Exit 41. Tanger is located across from The Meadows Casino. Turn up Tanger Blvd. Turn Right into Tanger. Chargers located at the front right of the center\nTANGER EV 2; I-79, Exit 41. Tanger is located across from The Meadows Casino. Turn up Tanger Blvd. Turn Right into Tanger. Chargers located at the front right of the center. ",
     "City":"Washington",
     "State":"PA",
@@ -3608,7 +3608,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":4,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -3620,8 +3620,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Pittsburgh East Nissan",
-    "Street Address":"3355 William Penn Hwy",
+    "NAME":"Pittsburgh East Nissan",
+    "ADDRESS":"3355 William Penn Hwy",
     "Intersection Directions":"",
     "City":"Pittsburgh",
     "State":"PA",
@@ -3631,7 +3631,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":1,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772 CHADEMO"
     }
   },
@@ -3643,8 +3643,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"University of Pittsburgh - O'Hara Garage",
-    "Street Address":"3915 O'Hara St",
+    "NAME":"University of Pittsburgh - O'Hara Garage",
+    "ADDRESS":"3915 O'Hara St",
     "Intersection Directions":"",
     "City":"Pittsburgh",
     "State":"PA",
@@ -3654,7 +3654,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -3666,8 +3666,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Best Western - Bentleyville",
-    "Street Address":"101 Gosia Dr",
+    "NAME":"Best Western - Bentleyville",
+    "ADDRESS":"101 Gosia Dr",
     "Intersection Directions":"",
     "City":"Bentleyville",
     "State":"PA",
@@ -3677,7 +3677,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -3689,8 +3689,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Ardmore Nissan",
-    "Street Address":"265 E Lancaster Ave",
+    "NAME":"Ardmore Nissan",
+    "ADDRESS":"265 E Lancaster Ave",
     "Intersection Directions":"",
     "City":"Ardmore",
     "State":"PA",
@@ -3700,7 +3700,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -3712,8 +3712,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"AAA - Clifton Heights",
-    "Street Address":"5233 W. Baltimore Avenue",
+    "NAME":"AAA - Clifton Heights",
+    "ADDRESS":"5233 W. Baltimore Avenue",
     "Intersection Directions":"",
     "City":"Clifton Heights",
     "State":"PA",
@@ -3723,7 +3723,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -3735,8 +3735,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Tri-M Group LLC",
-    "Street Address":"204 Gale Lane",
+    "NAME":"Tri-M Group LLC",
+    "ADDRESS":"204 Gale Lane",
     "Intersection Directions":"",
     "City":"Kennett Square",
     "State":"PA",
@@ -3746,7 +3746,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -3758,8 +3758,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Philadelphia Horticultural Society",
-    "Street Address":"100 N. 20th Street",
+    "NAME":"Philadelphia Horticultural Society",
+    "ADDRESS":"100 N. 20th Street",
     "Intersection Directions":"",
     "City":"Philadelphia",
     "State":"PA",
@@ -3769,7 +3769,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -3781,8 +3781,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Molly's Convenience Store",
-    "Street Address":"35 Doe Run Rd",
+    "NAME":"Molly's Convenience Store",
+    "ADDRESS":"35 Doe Run Rd",
     "Intersection Directions":"",
     "City":"Manheim",
     "State":"PA",
@@ -3792,7 +3792,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -3804,8 +3804,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"AMERISOURCE",
-    "Street Address":"287-299 Washington St",
+    "NAME":"AMERISOURCE",
+    "ADDRESS":"287-299 Washington St",
     "Intersection Directions":"EV 1; Parking Garage on First Floor",
     "City":"Conshohocken",
     "State":"PA",
@@ -3815,7 +3815,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -3827,8 +3827,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Montgomeryville Nissan",
-    "Street Address":"991 Bethlehem Pike",
+    "NAME":"Montgomeryville Nissan",
+    "ADDRESS":"991 Bethlehem Pike",
     "Intersection Directions":"Intersection of Route 309 and Stump Road.",
     "City":"Montgomeryville",
     "State":"PA",
@@ -3838,7 +3838,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -3850,8 +3850,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"FedEx",
-    "Street Address":"1000 FedEx Dr",
+    "NAME":"FedEx",
+    "ADDRESS":"1000 FedEx Dr",
     "Intersection Directions":"",
     "City":"Moon Township",
     "State":"PA",
@@ -3861,7 +3861,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -3873,8 +3873,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Harrisburg International Airport Cell Phone Parking Lot",
-    "Street Address":"1 Terminal Drive",
+    "NAME":"Harrisburg International Airport Cell Phone Parking Lot",
+    "ADDRESS":"1 Terminal Drive",
     "Intersection Directions":"Cell Phone Lot\n",
     "City":"Middletown",
     "State":"PA",
@@ -3884,7 +3884,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":null,
     "EV DC Fast Count":2,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"CHADEMO"
     }
   },
@@ -3896,8 +3896,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Faulkner Nissan",
-    "Street Address":"900 Old York Rd",
+    "NAME":"Faulkner Nissan",
+    "ADDRESS":"900 Old York Rd",
     "Intersection Directions":"",
     "City":"Jenkintown",
     "State":"PA",
@@ -3907,7 +3907,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -3919,8 +3919,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"FAULKNER BMW",
-    "Street Address":"1510 Commerce Dr",
+    "NAME":"FAULKNER BMW",
+    "ADDRESS":"1510 Commerce Dr",
     "Intersection Directions":"STATION 01",
     "City":"Lancaster",
     "State":"PA",
@@ -3930,7 +3930,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -3942,8 +3942,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Exxon - Lehigh Gas Station and Convenience Store",
-    "Street Address":"4361 N Front St",
+    "NAME":"Exxon - Lehigh Gas Station and Convenience Store",
+    "ADDRESS":"4361 N Front St",
     "Intersection Directions":"Charger located on the left side of the building. ",
     "City":"Harrisburg",
     "State":"PA",
@@ -3953,7 +3953,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -3965,8 +3965,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Inn at Westwynd Farm - Tesla",
-    "Street Address":"1620 Sand Beach Rd",
+    "NAME":"Inn at Westwynd Farm - Tesla",
+    "ADDRESS":"1620 Sand Beach Rd",
     "Intersection Directions":"",
     "City":"Hummelstown",
     "State":"PA",
@@ -3976,7 +3976,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -3988,8 +3988,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"O'Neil Nissan",
-    "Street Address":"849 W Street Rd",
+    "NAME":"O'Neil Nissan",
+    "ADDRESS":"849 W Street Rd",
     "Intersection Directions":"",
     "City":"Warminster",
     "State":"PA",
@@ -3999,7 +3999,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -4011,8 +4011,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"CONCORDVILLE",
-    "Street Address":"452 Wilmington West Chester Pike",
+    "NAME":"CONCORDVILLE",
+    "ADDRESS":"452 Wilmington West Chester Pike",
     "Intersection Directions":"452 WILLMINGTON; North Side Building",
     "City":"Glen Mills",
     "State":"PA",
@@ -4022,7 +4022,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":null,
     "EV DC Fast Count":1,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"CHADEMO"
     }
   },
@@ -4034,8 +4034,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Cocoon Coffee House - Tesla",
-    "Street Address":"8 Old Route 66",
+    "NAME":"Cocoon Coffee House - Tesla",
+    "ADDRESS":"8 Old Route 66",
     "Intersection Directions":"",
     "City":"Hawley",
     "State":"PA",
@@ -4045,7 +4045,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -4057,8 +4057,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Central Parking - Kennedy House",
-    "Street Address":"1901 JFK Blvd.",
+    "NAME":"Central Parking - Kennedy House",
+    "ADDRESS":"1901 JFK Blvd.",
     "Intersection Directions":"Located on 1st floor at entrance on \n19th St.\n",
     "City":"Philadelphia",
     "State":"PA",
@@ -4068,7 +4068,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":null,
     "EV DC Fast Count":2,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"CHADEMO"
     }
   },
@@ -4080,8 +4080,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Parkway Corporation 5",
-    "Street Address":"1202 Walnut Street",
+    "NAME":"Parkway Corporation 5",
+    "ADDRESS":"1202 Walnut Street",
     "Intersection Directions":"",
     "City":"Philadelphia",
     "State":"PA",
@@ -4091,7 +4091,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":4,
     "EV DC Fast Count":null,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -4103,8 +4103,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"9th & Arch Parking Lot",
-    "Street Address":"815 Arch Street",
+    "NAME":"9th & Arch Parking Lot",
+    "ADDRESS":"815 Arch Street",
     "Intersection Directions":"Station located in space 097 which is \ncloser to Arch St.\n",
     "City":"Philadelphia",
     "State":"PA",
@@ -4114,7 +4114,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -4126,8 +4126,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"HCW PARKING",
-    "Street Address":"251 Park Blvd",
+    "NAME":"HCW PARKING",
+    "ADDRESS":"251 Park Blvd",
     "Intersection Directions":"CHOCOLATEWORLD1\nCHOCOLATEWORLD2",
     "City":"Hershey",
     "State":"PA",
@@ -4137,7 +4137,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":4,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -4149,8 +4149,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Fred Beans Nissan - Doylestown",
-    "Street Address":"4469 W Swamp Rd",
+    "NAME":"Fred Beans Nissan - Doylestown",
+    "ADDRESS":"4469 W Swamp Rd",
     "Intersection Directions":"",
     "City":"Doylestown",
     "State":"PA",
@@ -4160,7 +4160,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -4172,8 +4172,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Shults Ford Lincoln",
-    "Street Address":"10401 Perry Hwy",
+    "NAME":"Shults Ford Lincoln",
+    "ADDRESS":"10401 Perry Hwy",
     "Intersection Directions":"",
     "City":"Wexford",
     "State":"PA",
@@ -4183,7 +4183,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -4195,8 +4195,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Borough of Phoenixville - Borough Hall",
-    "Street Address":"351 Bridge St",
+    "NAME":"Borough of Phoenixville - Borough Hall",
+    "ADDRESS":"351 Bridge St",
     "Intersection Directions":"",
     "City":"Phoenixville",
     "State":"PA",
@@ -4206,7 +4206,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -4218,8 +4218,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"AAA - Wayne",
-    "Street Address":"849 West Lancaster Avenue",
+    "NAME":"AAA - Wayne",
+    "ADDRESS":"849 West Lancaster Avenue",
     "Intersection Directions":"",
     "City":"Wayne",
     "State":"PA",
@@ -4229,7 +4229,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -4241,8 +4241,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Liberty Place Garage",
-    "Street Address":"1650 Market Street",
+    "NAME":"Liberty Place Garage",
+    "ADDRESS":"1650 Market Street",
     "Intersection Directions":"",
     "City":"Philadelphia",
     "State":"PA",
@@ -4252,7 +4252,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -4264,8 +4264,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"ING",
-    "Street Address":"1475 Dunwoody Drive",
+    "NAME":"ING",
+    "ADDRESS":"1475 Dunwoody Drive",
     "Intersection Directions":"",
     "City":"West Chester",
     "State":"PA",
@@ -4275,7 +4275,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -4287,8 +4287,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Loughead Nissan",
-    "Street Address":"755 S Chester Rd",
+    "NAME":"Loughead Nissan",
+    "ADDRESS":"755 S Chester Rd",
     "Intersection Directions":"",
     "City":"Swarthmore",
     "State":"PA",
@@ -4298,7 +4298,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -4310,8 +4310,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Community Energy",
-    "Street Address":"11 South Jackson Street",
+    "NAME":"Community Energy",
+    "ADDRESS":"11 South Jackson Street",
     "Intersection Directions":"",
     "City":"Media",
     "State":"PA",
@@ -4321,7 +4321,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -4333,8 +4333,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Ken Pollock Nissan",
-    "Street Address":"229 Mundy St",
+    "NAME":"Ken Pollock Nissan",
+    "ADDRESS":"229 Mundy St",
     "Intersection Directions":"",
     "City":"Wilkes Barre",
     "State":"PA",
@@ -4344,7 +4344,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -4356,8 +4356,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Amtrak - 30th St Station",
-    "Street Address":"2955 Market St",
+    "NAME":"Amtrak - 30th St Station",
+    "ADDRESS":"2955 Market St",
     "Intersection Directions":"",
     "City":"Philadelphia",
     "State":"PA",
@@ -4367,7 +4367,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":2,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772 CHADEMO"
     }
   },
@@ -4379,8 +4379,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Classy Cab - Westin Convention Center",
-    "Street Address":"1000 Penn Ave",
+    "NAME":"Classy Cab - Westin Convention Center",
+    "ADDRESS":"1000 Penn Ave",
     "Intersection Directions":"",
     "City":"Pittsburgh",
     "State":"PA",
@@ -4390,7 +4390,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -4402,8 +4402,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"University of Pittsburgh Medical Center - Shadyside",
-    "Street Address":"5230 Centre Ave",
+    "NAME":"University of Pittsburgh Medical Center - Shadyside",
+    "ADDRESS":"5230 Centre Ave",
     "Intersection Directions":"",
     "City":"Pittsburgh",
     "State":"PA",
@@ -4413,7 +4413,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":4,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -4425,8 +4425,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Normandy Farm Hotel & Conference Center",
-    "Street Address":"1401 Morris Rd",
+    "NAME":"Normandy Farm Hotel & Conference Center",
+    "ADDRESS":"1401 Morris Rd",
     "Intersection Directions":"",
     "City":"Blue Bell",
     "State":"PA",
@@ -4436,7 +4436,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":4,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA J1772"
     }
   },
@@ -4448,8 +4448,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"HERSHEY",
-    "Street Address":"83 Outlet Square",
+    "NAME":"HERSHEY",
+    "ADDRESS":"83 Outlet Square",
     "Intersection Directions":"TANGER EV1 SO; ADJACENT TO PLAYGROUND\nTANGER EV2 NO; ADJACENT TO PLAYGROUND",
     "City":"Hershey",
     "State":"PA",
@@ -4459,7 +4459,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":4,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -4471,8 +4471,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Trolley Car Diner",
-    "Street Address":"7619 Germantown Ave",
+    "NAME":"Trolley Car Diner",
+    "ADDRESS":"7619 Germantown Ave",
     "Intersection Directions":"The charging station is located in the back of the parking lot next to the diner.",
     "City":"Philadelphia",
     "State":"PA",
@@ -4482,7 +4482,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Greenlots",
+    "EVNETWORK":"Greenlots",
     "EV Connector Types":"J1772"
     }
   },
@@ -4494,8 +4494,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"3003 JFK Parking Lot",
-    "Street Address":"3003 N John F Kennedy Blvd",
+    "NAME":"3003 JFK Parking Lot",
+    "ADDRESS":"3003 N John F Kennedy Blvd",
     "Intersection Directions":"",
     "City":"Philadelphia",
     "State":"PA",
@@ -4505,7 +4505,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -4517,8 +4517,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Homewood Suites - Tesla",
-    "Street Address":"781 Shannondell Blvd",
+    "NAME":"Homewood Suites - Tesla",
+    "ADDRESS":"781 Shannondell Blvd",
     "Intersection Directions":"",
     "City":"Eagleville",
     "State":"PA",
@@ -4528,7 +4528,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -4540,8 +4540,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"The Children's Hospital of Philadelphia - Main Campus",
-    "Street Address":"3615 Civic Center Boulevard",
+    "NAME":"The Children's Hospital of Philadelphia - Main Campus",
+    "ADDRESS":"3615 Civic Center Boulevard",
     "Intersection Directions":"The Wood Garage - Parking Level B\n\nThe Wood Garage - Parking Level B\n",
     "City":"Philadelphia",
     "State":"PA",
@@ -4551,7 +4551,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -4563,8 +4563,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Mark Arbuckle Nissan",
-    "Street Address":"1080 Philadelphia St",
+    "NAME":"Mark Arbuckle Nissan",
+    "ADDRESS":"1080 Philadelphia St",
     "Intersection Directions":"",
     "City":"Indiana",
     "State":"PA",
@@ -4574,7 +4574,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -4586,8 +4586,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Peter J. Camiel Service Plaza (Milepost 304.8 WB)",
-    "Street Address":"PA Turnpike 304.8 WB/1 Marsh Road",
+    "NAME":"Peter J. Camiel Service Plaza (Milepost 304.8 WB)",
+    "ADDRESS":"PA Turnpike 304.8 WB/1 Marsh Road",
     "Intersection Directions":"",
     "City":"Elverson",
     "State":"PA",
@@ -4597,7 +4597,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":2,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"CHADEMO J1772"
     }
   },
@@ -4609,8 +4609,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"MOM's of Rosemont",
-    "Street Address":"1149 E. Lancaster Ave",
+    "NAME":"MOM's of Rosemont",
+    "ADDRESS":"1149 E. Lancaster Ave",
     "Intersection Directions":"",
     "City":"Bryn Mawr",
     "State":"PA",
@@ -4620,7 +4620,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"SemaCharge Network",
+    "EVNETWORK":"SemaCharge Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -4632,8 +4632,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"New Stanton Service Plaza (Milepost 77.6 WB)",
-    "Street Address":"724 New Stanton Plaza Road",
+    "NAME":"New Stanton Service Plaza (Milepost 77.6 WB)",
+    "ADDRESS":"724 New Stanton Plaza Road",
     "Intersection Directions":"",
     "City":"Hunker",
     "State":"PA",
@@ -4643,7 +4643,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":2,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"CHADEMO J1772"
     }
   },
@@ -4655,8 +4655,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"W. VALLEY BMW",
-    "Street Address":"588 Market St",
+    "NAME":"W. VALLEY BMW",
+    "ADDRESS":"588 Market St",
     "Intersection Directions":"STATION 01; -",
     "City":"Kingston",
     "State":"PA",
@@ -4666,7 +4666,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -4678,8 +4678,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Philly Micro",
-    "Street Address":"26-30 S 21st St",
+    "NAME":"Philly Micro",
+    "ADDRESS":"26-30 S 21st St",
     "Intersection Directions":"",
     "City":"Philadelphia",
     "State":"PA",
@@ -4689,7 +4689,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -4701,8 +4701,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"The Parking Spot",
-    "Street Address":"7600 Essington Ave",
+    "NAME":"The Parking Spot",
+    "ADDRESS":"7600 Essington Ave",
     "Intersection Directions":"Located in the valet",
     "City":"Philadelphia",
     "State":"PA",
@@ -4712,7 +4712,7 @@ var chargers = {
     "EV Level1 EVSE Num":2,
     "EV Level2 EVSE Num":null,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"NEMA520"
     }
   },
@@ -4724,8 +4724,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Whole Foods Market",
-    "Street Address":"10576 Perry Hwy",
+    "NAME":"Whole Foods Market",
+    "ADDRESS":"10576 Perry Hwy",
     "Intersection Directions":"",
     "City":"Wexford",
     "State":"PA",
@@ -4735,7 +4735,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -4747,8 +4747,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"A&L BMW",
-    "Street Address":"3776 William Penn Hwy",
+    "NAME":"A&L BMW",
+    "ADDRESS":"3776 William Penn Hwy",
     "Intersection Directions":"STATION 01; -",
     "City":"Monroeville",
     "State":"PA",
@@ -4758,7 +4758,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -4770,8 +4770,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"JOEL CONFER BMW",
-    "Street Address":"116-122 Clinton Ave",
+    "NAME":"JOEL CONFER BMW",
+    "ADDRESS":"116-122 Clinton Ave",
     "Intersection Directions":"STATION 01",
     "City":"State College",
     "State":"PA",
@@ -4781,7 +4781,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -4793,8 +4793,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Ever Power - Seagate Building",
-    "Street Address":"1251 Water Front Pl",
+    "NAME":"Ever Power - Seagate Building",
+    "ADDRESS":"1251 Water Front Pl",
     "Intersection Directions":"",
     "City":"Pittsburgh",
     "State":"PA",
@@ -4804,7 +4804,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -4816,8 +4816,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Lankenau Medical Center Parking Garage D",
-    "Street Address":"100 East Lancaster Avenue",
+    "NAME":"Lankenau Medical Center Parking Garage D",
+    "ADDRESS":"100 East Lancaster Avenue",
     "Intersection Directions":"Lower Level\n",
     "City":"Wynnewood",
     "State":"PA",
@@ -4827,7 +4827,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":null,
     "EV DC Fast Count":2,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"CHADEMO"
     }
   },
@@ -4839,8 +4839,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Chapman Nissan",
-    "Street Address":"6723 Essington Ave",
+    "NAME":"Chapman Nissan",
+    "ADDRESS":"6723 Essington Ave",
     "Intersection Directions":"",
     "City":"Philadelphia",
     "State":"PA",
@@ -4850,7 +4850,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -4862,8 +4862,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"University of Pittsburgh Medical Center - Mercy Hospital",
-    "Street Address":"1400 Locust St",
+    "NAME":"University of Pittsburgh Medical Center - Mercy Hospital",
+    "ADDRESS":"1400 Locust St",
     "Intersection Directions":"",
     "City":"Pittsburgh",
     "State":"PA",
@@ -4873,7 +4873,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -4885,8 +4885,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"University of Pittsburgh Medical Center - Presbyterian Garage",
-    "Street Address":"255 Lothrup St",
+    "NAME":"University of Pittsburgh Medical Center - Presbyterian Garage",
+    "ADDRESS":"255 Lothrup St",
     "Intersection Directions":"",
     "City":"Pittsburgh",
     "State":"PA",
@@ -4896,7 +4896,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":3,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -4908,8 +4908,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"City of Philadelphia",
-    "Street Address":"209 Montrose St",
+    "NAME":"City of Philadelphia",
+    "ADDRESS":"209 Montrose St",
     "Intersection Directions":"",
     "City":"Philadelphia",
     "State":"PA",
@@ -4919,7 +4919,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -4931,8 +4931,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Sheetz Store #122",
-    "Street Address":"1781 N Atherton St",
+    "NAME":"Sheetz Store #122",
+    "ADDRESS":"1781 N Atherton St",
     "Intersection Directions":"",
     "City":"State College",
     "State":"PA",
@@ -4942,7 +4942,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":null,
     "EV DC Fast Count":1,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"CHADEMO"
     }
   },
@@ -4954,8 +4954,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Eagleview Town Center",
-    "Street Address":"539 Wellington Square",
+    "NAME":"Eagleview Town Center",
+    "ADDRESS":"539 Wellington Square",
     "Intersection Directions":"",
     "City":"Exton",
     "State":"PA",
@@ -4965,7 +4965,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"SemaCharge Network",
+    "EVNETWORK":"SemaCharge Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -4977,8 +4977,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Montgomery County Community College",
-    "Street Address":"101 College Drive",
+    "NAME":"Montgomery County Community College",
+    "ADDRESS":"101 College Drive",
     "Intersection Directions":"",
     "City":"Pottstown",
     "State":"PA",
@@ -4988,7 +4988,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -5000,8 +5000,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Residence Inn - Tesla",
-    "Street Address":"1308 Freedom Rd",
+    "NAME":"Residence Inn - Tesla",
+    "ADDRESS":"1308 Freedom Rd",
     "Intersection Directions":"I-95 Exit 8/8A",
     "City":"Cranberry Township",
     "State":"PA",
@@ -5011,7 +5011,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":null,
     "EV DC Fast Count":6,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -5023,8 +5023,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Drexel Hill Nissan",
-    "Street Address":"5018 Township Line Rd",
+    "NAME":"Drexel Hill Nissan",
+    "ADDRESS":"5018 Township Line Rd",
     "Intersection Directions":"",
     "City":"Drexel Hill",
     "State":"PA",
@@ -5034,7 +5034,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -5046,8 +5046,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Oakmont Plum Service Plaza (Milepost 49.3 EB)",
-    "Street Address":"2000 Eastern Avenue",
+    "NAME":"Oakmont Plum Service Plaza (Milepost 49.3 EB)",
+    "ADDRESS":"2000 Eastern Avenue",
     "Intersection Directions":"",
     "City":"Verona",
     "State":"PA",
@@ -5057,7 +5057,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":2,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"CHADEMO J1772"
     }
   },
@@ -5069,8 +5069,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Nissan of State College",
-    "Street Address":"3220 W College Ave",
+    "NAME":"Nissan of State College",
+    "ADDRESS":"3220 W College Ave",
     "Intersection Directions":"",
     "City":"State College",
     "State":"PA",
@@ -5080,7 +5080,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -5092,8 +5092,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Pittsburgh International Airport - Short Term Parking",
-    "Street Address":"1000 Airport Blvd",
+    "NAME":"Pittsburgh International Airport - Short Term Parking",
+    "ADDRESS":"1000 Airport Blvd",
     "Intersection Directions":"Located on levels 2 and 3.  Look for \"Power Up\" signs.",
     "City":"Pittsburgh",
     "State":"PA",
@@ -5103,7 +5103,7 @@ var chargers = {
     "EV Level1 EVSE Num":6,
     "EV Level2 EVSE Num":null,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"NEMA520"
     }
   },
@@ -5115,8 +5115,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Quigley Chevrolet",
-    "Street Address":"326 Main St",
+    "NAME":"Quigley Chevrolet",
+    "ADDRESS":"326 Main St",
     "Intersection Directions":"Between N 3rd & 4th on Rte 100; located in Service Area",
     "City":"Bally",
     "State":"PA",
@@ -5126,7 +5126,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -5138,8 +5138,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"HIGH HOTELS",
-    "Street Address":"1931 Hospitality Drive",
+    "NAME":"HIGH HOTELS",
+    "ADDRESS":"1931 Hospitality Drive",
     "Intersection Directions":"LC EV CHARGER; Please see Front Desk Staff for access card.",
     "City":"Lancaster",
     "State":"PA",
@@ -5149,7 +5149,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -5161,8 +5161,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Colliers International - Building 101",
-    "Street Address":"125 E County Line Road, Building 101",
+    "NAME":"Colliers International - Building 101",
+    "ADDRESS":"125 E County Line Road, Building 101",
     "Intersection Directions":"",
     "City":"Warminster",
     "State":"PA",
@@ -5172,7 +5172,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -5184,8 +5184,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Chestnut Hill Hotel - Tesla",
-    "Street Address":"8229 Germantown Ave",
+    "NAME":"Chestnut Hill Hotel - Tesla",
+    "ADDRESS":"8229 Germantown Ave",
     "Intersection Directions":"",
     "City":"Philadelphia",
     "State":"PA",
@@ -5195,7 +5195,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -5207,8 +5207,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"PPA AIRPORT EV",
-    "Street Address":"1 Arrivals Rd",
+    "NAME":"PPA AIRPORT EV",
+    "ADDRESS":"1 Arrivals Rd",
     "Intersection Directions":"GARAGE C STAT2; Parking is only permitted if the car is plugged in. The charging stations are located on the first level of Garage C, opposite the doors to the terminal concourse.\nGARAGE C STAT1; Parking is only permitted if the car is plugged in. The charging stations are located on the first level of Garage C, opposite the doors to the terminal concourse.\nGARAGE D STAT 1; Parking is only permitted if the car is plugged in. The charging stations are located on the first level of Garage D, opposite the doors to the terminal concourse.\nGARAGE D STAT 2; Parking is only permitted if the car is plugged in. The charging stations are located on the first level of Garage D, opposite the doors to the terminal concourse.",
     "City":"Philadelphia",
     "State":"PA",
@@ -5218,7 +5218,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":8,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -5230,8 +5230,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Ledges Hotel - Tesla",
-    "Street Address":"119 Falls Ave",
+    "NAME":"Ledges Hotel - Tesla",
+    "ADDRESS":"119 Falls Ave",
     "Intersection Directions":"",
     "City":"Hawley",
     "State":"PA",
@@ -5241,7 +5241,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -5253,8 +5253,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"King of Prussia Mall",
-    "Street Address":"160 N. Gulph Road",
+    "NAME":"King of Prussia Mall",
+    "ADDRESS":"160 N. Gulph Road",
     "Intersection Directions":"",
     "City":"King of Prussia",
     "State":"PA",
@@ -5264,7 +5264,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"SemaCharge Network",
+    "EVNETWORK":"SemaCharge Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -5276,8 +5276,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"PARKWAY",
-    "Street Address":"804 Walnut St",
+    "NAME":"PARKWAY",
+    "ADDRESS":"804 Walnut St",
     "Intersection Directions":"8TH & WALNUT; Station located next to exit facility exit gates",
     "City":"Philadelphia",
     "State":"PA",
@@ -5287,7 +5287,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -5299,8 +5299,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Cochran Nissan",
-    "Street Address":"3200 W Liberty Ave",
+    "NAME":"Cochran Nissan",
+    "ADDRESS":"3200 W Liberty Ave",
     "Intersection Directions":"",
     "City":"Pittsburgh",
     "State":"PA",
@@ -5310,7 +5310,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -5322,8 +5322,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Breaker Brewing Company - Tesla",
-    "Street Address":"787 E Northampton St",
+    "NAME":"Breaker Brewing Company - Tesla",
+    "ADDRESS":"787 E Northampton St",
     "Intersection Directions":"",
     "City":"Wilkes Barre Township",
     "State":"PA",
@@ -5333,7 +5333,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -5345,8 +5345,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Crowne Plaza Philadelphia West - Tesla",
-    "Street Address":"4010 City Ave",
+    "NAME":"Crowne Plaza Philadelphia West - Tesla",
+    "ADDRESS":"4010 City Ave",
     "Intersection Directions":"",
     "City":"Philadelphia",
     "State":"PA",
@@ -5356,7 +5356,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -5368,8 +5368,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"NAVY YARD",
-    "Street Address":"1001 Intrepid Ave",
+    "NAME":"NAVY YARD",
+    "ADDRESS":"1001 Intrepid Ave",
     "Intersection Directions":"CY NAVY YARD; The station is located in the parking lot, across from the main entrance of the hotel",
     "City":"Philadelphia",
     "State":"PA",
@@ -5379,7 +5379,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -5391,8 +5391,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Nemacolin Woodlands Resort - Tesla",
-    "Street Address":"1001 Lafayette Dr",
+    "NAME":"Nemacolin Woodlands Resort - Tesla",
+    "ADDRESS":"1001 Lafayette Dr",
     "Intersection Directions":"",
     "City":"Farmington",
     "State":"PA",
@@ -5402,7 +5402,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":4,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -5414,8 +5414,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"William Penn House Parking",
-    "Street Address":"36 S 19th St",
+    "NAME":"William Penn House Parking",
+    "ADDRESS":"36 S 19th St",
     "Intersection Directions":"",
     "City":"Philadelphia",
     "State":"PA",
@@ -5425,7 +5425,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":2,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772 CHADEMO"
     }
   },
@@ -5437,8 +5437,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Ginger Hill Tavern",
-    "Street Address":"278 S Main St",
+    "NAME":"Ginger Hill Tavern",
+    "ADDRESS":"278 S Main St",
     "Intersection Directions":"",
     "City":"Slippery Rock",
     "State":"PA",
@@ -5448,7 +5448,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":null,
     "EV DC Fast Count":2,
-    "EV Network":"Greenlots",
+    "EVNETWORK":"Greenlots",
     "EV Connector Types":"CHADEMO J1772COMBO"
     }
   },
@@ -5460,8 +5460,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Willow Grove",
-    "Street Address":"30 Park Avenue",
+    "NAME":"Willow Grove",
+    "ADDRESS":"30 Park Avenue",
     "Intersection Directions":"",
     "City":"Willow Grove",
     "State":"PA",
@@ -5471,7 +5471,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"eVgo Network",
+    "EVNETWORK":"eVgo Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -5483,8 +5483,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Walgreens - Feasterville, PA #7590",
-    "Street Address":"2 E Street Rd",
+    "NAME":"Walgreens - Feasterville, PA #7590",
+    "ADDRESS":"2 E Street Rd",
     "Intersection Directions":"",
     "City":"Feasterville",
     "State":"PA",
@@ -5494,7 +5494,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"SemaCharge Network",
+    "EVNETWORK":"SemaCharge Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -5506,8 +5506,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"John Sisson Motors",
-    "Street Address":"470 Washington Rd",
+    "NAME":"John Sisson Motors",
+    "ADDRESS":"470 Washington Rd",
     "Intersection Directions":"",
     "City":"Washington",
     "State":"PA",
@@ -5517,7 +5517,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":1,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772 CHADEMO"
     }
   },
@@ -5529,8 +5529,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Walgreens - Philadelphia, PA #7544",
-    "Street Address":"10000 Bustleton Ave",
+    "NAME":"Walgreens - Philadelphia, PA #7544",
+    "ADDRESS":"10000 Bustleton Ave",
     "Intersection Directions":"",
     "City":"Philadelphia",
     "State":"PA",
@@ -5540,7 +5540,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"SemaCharge Network",
+    "EVNETWORK":"SemaCharge Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -5552,8 +5552,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"UNIONSTRONG",
-    "Street Address":"3031A Walton Rd",
+    "NAME":"UNIONSTRONG",
+    "ADDRESS":"3031A Walton Rd",
     "Intersection Directions":"UNIONSTRONG3; Located at the rear of building A",
     "City":"Plymouth Meeting",
     "State":"PA",
@@ -5563,7 +5563,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -5575,8 +5575,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Electric Garage - Tesla",
-    "Street Address":"4621 Forbes Ave",
+    "NAME":"Electric Garage - Tesla",
+    "ADDRESS":"4621 Forbes Ave",
     "Intersection Directions":"",
     "City":"Pittsburgh",
     "State":"PA",
@@ -5586,7 +5586,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Tesla",
+    "EVNETWORK":"Tesla",
     "EV Connector Types":"TESLA"
     }
   },
@@ -5598,8 +5598,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Bowmansville Service Plaza (Milepost 289.9 EB)",
-    "Street Address":"1350 Reading Road",
+    "NAME":"Bowmansville Service Plaza (Milepost 289.9 EB)",
+    "ADDRESS":"1350 Reading Road",
     "Intersection Directions":"",
     "City":"Bowmansville",
     "State":"PA",
@@ -5609,7 +5609,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":2,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"CHADEMO J1772"
     }
   },
@@ -5621,8 +5621,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"King of Prussia Service Plaza (Milepost 328.4 WB)",
-    "Street Address":"381 West Dekalb Pike",
+    "NAME":"King of Prussia Service Plaza (Milepost 328.4 WB)",
+    "ADDRESS":"381 West Dekalb Pike",
     "Intersection Directions":"",
     "City":"King of Prussia",
     "State":"PA",
@@ -5632,7 +5632,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":2,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"CHADEMO J1772"
     }
   },
@@ -5644,8 +5644,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Sheetz Store #518",
-    "Street Address":"6054 Carlisle Pike",
+    "NAME":"Sheetz Store #518",
+    "ADDRESS":"6054 Carlisle Pike",
     "Intersection Directions":"",
     "City":"Mechanicsburg",
     "State":"PA",
@@ -5655,7 +5655,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":null,
     "EV DC Fast Count":1,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"CHADEMO"
     }
   },
@@ -5667,8 +5667,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Conicelli Nissan",
-    "Street Address":"1333 W Ridge Pike",
+    "NAME":"Conicelli Nissan",
+    "ADDRESS":"1333 W Ridge Pike",
     "Intersection Directions":"",
     "City":"Conshohocken",
     "State":"PA",
@@ -5678,7 +5678,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -5690,8 +5690,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Nissan 42 of Limerick",
-    "Street Address":"55 Autopark Blvd",
+    "NAME":"Nissan 42 of Limerick",
+    "ADDRESS":"55 Autopark Blvd",
     "Intersection Directions":"",
     "City":"Limerick",
     "State":"PA",
@@ -5701,7 +5701,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -5713,8 +5713,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Pittsburgh Parking Authority - Grant Street Transportation Garage",
-    "Street Address":"55 11th St",
+    "NAME":"Pittsburgh Parking Authority - Grant Street Transportation Garage",
+    "ADDRESS":"55 11th St",
     "Intersection Directions":"",
     "City":"Pittsburgh ",
     "State":"PA",
@@ -5724,7 +5724,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -5736,8 +5736,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"BMW FACILITIES",
-    "Street Address":"3830 Easton-Nazareth Hwy",
+    "NAME":"BMW FACILITIES",
+    "ADDRESS":"3830 Easton-Nazareth Hwy",
     "Intersection Directions":"NAZARETH 01",
     "City":"Easton",
     "State":"PA",
@@ -5747,7 +5747,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -5759,8 +5759,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Fitzgerald Nissan",
-    "Street Address":"1436 Lincoln Way E",
+    "NAME":"Fitzgerald Nissan",
+    "ADDRESS":"1436 Lincoln Way E",
     "Intersection Directions":"",
     "City":"Chambersburg",
     "State":"PA",
@@ -5770,7 +5770,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -5782,8 +5782,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Central Parking",
-    "Street Address":"1001 South St",
+    "NAME":"Central Parking",
+    "ADDRESS":"1001 South St",
     "Intersection Directions":"",
     "City":"Philadelphia",
     "State":"PA",
@@ -5793,7 +5793,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":null,
     "EV DC Fast Count":2,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"CHADEMO"
     }
   },
@@ -5805,8 +5805,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"University of Pittsburgh Medical Center - University Center",
-    "Street Address":"130 Lytton Ave",
+    "NAME":"University of Pittsburgh Medical Center - University Center",
+    "ADDRESS":"130 Lytton Ave",
     "Intersection Directions":"",
     "City":"Pittsburgh",
     "State":"PA",
@@ -5816,7 +5816,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -5828,8 +5828,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Sheetz Store #498",
-    "Street Address":"610 Route 22 Hwy",
+    "NAME":"Sheetz Store #498",
+    "ADDRESS":"610 Route 22 Hwy",
     "Intersection Directions":"",
     "City":"Blairsville",
     "State":"PA",
@@ -5839,7 +5839,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":null,
     "EV DC Fast Count":1,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"CHADEMO"
     }
   },
@@ -5851,8 +5851,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Oxford Mills",
-    "Street Address":"100 W. Oxford Street",
+    "NAME":"Oxford Mills",
+    "ADDRESS":"100 W. Oxford Street",
     "Intersection Directions":"This station charges .30 cents a kw\nThis station charges .30 cents a kw",
     "City":"Philadelphia",
     "State":"PA",
@@ -5862,7 +5862,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"SemaCharge Network",
+    "EVNETWORK":"SemaCharge Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -5874,8 +5874,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Laurel Nissan",
-    "Street Address":"1880 Bedford St",
+    "NAME":"Laurel Nissan",
+    "ADDRESS":"1880 Bedford St",
     "Intersection Directions":"",
     "City":"Johnstown",
     "State":"PA",
@@ -5885,7 +5885,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -5897,8 +5897,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"PARKWAY",
-    "Street Address":"800 Walnut St",
+    "NAME":"PARKWAY",
+    "ADDRESS":"800 Walnut St",
     "Intersection Directions":"8TH & WALNUT 2; Station located next to facility exit gates",
     "City":"Philadelphia",
     "State":"PA",
@@ -5908,7 +5908,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"ChargePoint Network",
+    "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -5920,8 +5920,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Bethlehem Ford",
-    "Street Address":"2135 W Union Blvd",
+    "NAME":"Bethlehem Ford",
+    "ADDRESS":"2135 W Union Blvd",
     "Intersection Directions":"",
     "City":"Bethlehem",
     "State":"PA",
@@ -5931,7 +5931,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -5943,8 +5943,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Germantown Life Enrichment Center",
-    "Street Address":"5722 Greene Street",
+    "NAME":"Germantown Life Enrichment Center",
+    "ADDRESS":"5722 Greene Street",
     "Intersection Directions":"",
     "City":"Philadelphia",
     "State":"PA",
@@ -5954,7 +5954,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -5966,8 +5966,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Systems Solutions, Inc.",
-    "Street Address":"376 Crooked Lane",
+    "NAME":"Systems Solutions, Inc.",
+    "ADDRESS":"376 Crooked Lane",
     "Intersection Directions":"",
     "City":"King of Prussia",
     "State":"PA",
@@ -5977,7 +5977,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"Blink Network",
+    "EVNETWORK":"Blink Network",
     "EV Connector Types":"J1772"
     }
   },
@@ -5989,8 +5989,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"University of Pittsburgh Medical Center - Passavant Hospital",
-    "Street Address":"9100 Babcock Blvd",
+    "NAME":"University of Pittsburgh Medical Center - Passavant Hospital",
+    "ADDRESS":"9100 Babcock Blvd",
     "Intersection Directions":"",
     "City":"Pittsburgh",
     "State":"PA",
@@ -6000,7 +6000,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":1,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   },
@@ -6012,8 +6012,8 @@ var chargers = {
     },
     "properties": {
     "Fuel Type Code":"ELEC",
-    "Station Name":"Pittsburgh Parking Authority - First Avenue Garage",
-    "Street Address":"600 First Ave",
+    "NAME":"Pittsburgh Parking Authority - First Avenue Garage",
+    "ADDRESS":"600 First Ave",
     "Intersection Directions":"",
     "City":"Pittsburgh ",
     "State":"PA",
@@ -6023,7 +6023,7 @@ var chargers = {
     "EV Level1 EVSE Num":null,
     "EV Level2 EVSE Num":2,
     "EV DC Fast Count":null,
-    "EV Network":"",
+    "EVNETWORK":"",
     "EV Connector Types":"J1772"
     }
   }
