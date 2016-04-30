@@ -74,7 +74,7 @@
       <div id="map" style="width: 900px; height: 575px"></div>
 
 <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
-<script src="countiesPA6.js"></script>
+<script src="countiesPA7.js"></script>
       
     <script type="text/javascript">
 
@@ -166,7 +166,7 @@
 			});
 		}
 
-		geojson = L.geoJson(pacounties, {
+		geojson = L.geoJson(counties_id, {
 			style: style,
 			onEachFeature: onEachFeature
 		}).addTo(map);
