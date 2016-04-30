@@ -203,7 +203,7 @@
 				function onEachFeature(feature, layer) {
 						    // does this feature have a property named popupContent?
 						    if (feature.properties && feature.properties.NAME && feature.properties.ADDRESS) {
-						        layer.bindPopup("<h1>"+feature.properties.NAME+"</h1><p>"+feature.properties.ADDRESS+"</h1><p><center>"+feature.properties.City+"</h1><p><center>"+feature.properties.State+"</center></p>");
+						        layer.bindPopup("<h1>"+feature.properties.NAME+"</h1><p>"+feature.properties.ADDRESS+"<p>"+feature.properties.City+"<p>"+feature.properties.State+"<p>"+feature.properties.ZIP+"<p>"+feature.properties.EVNETWORK+");
 						    }
 		}
 		var geojsonlayer = L.geoJson(chargers, {onEachFeature: onEachFeature}).addTo(map);
