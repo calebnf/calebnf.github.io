@@ -100,14 +100,14 @@
 
 		info.update = function (props) {
 			this._div.innerHTML = '<h4>Pennsylvania Commuting Times</h4>' +  (props ?
-				'<b>' + props.name + '</b><br />' + props.density + ' people / mi<sup>2</sup>'
+				'<b>' + props.COUNTY_NAM + '</b><br />' + props.TIME2 + ' Minutes'
 				: 'Hover over a county');
 		};
 
 		info.addTo(map);
 
 
-		// get color depending on population density value
+		// get color depending on commuting time value
 		function getColor(d) {
 			return d > 1000 ? '#800026' :
 			       d > 500  ? '#BD0026' :
