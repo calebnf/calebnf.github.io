@@ -80,7 +80,7 @@
 <script src="countiesPA8.js"></script>
       
     <script type="text/javascript">
-    		var chglyr = new L.LayerGroup(chglayer);
+    		var chglyr = new L.LayerGroup(chargers);
 		var mbAttr = 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
 				'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
 				'Imagery © <a href="http://mapbox.com">Mapbox</a>',
@@ -225,7 +225,7 @@
 						        layer.bindPopup("<h1>"+feature.properties.NAME+"</h1><p>"+feature.properties.ADDRESS+"<br>"+feature.properties.City+", "+feature.properties.State+" "+feature.properties.ZIP+"<br> Network: "+feature.properties.EVNETWORK+"");
 						    }
 		}
-		var geojsonlayer = L.geoJson(chglayer, {onEachFeature: onEachFeature}).addTo(map);
+		var geojsonlayer = L.geoJson(chargers, {onEachFeature: onEachFeature}).addTo(map);
 	</script>
 	<script>
     </div>
