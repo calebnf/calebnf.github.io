@@ -4030,29 +4030,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -123.3651326,48.103483 ]
-    },
-    "properties": {
-    "Fuel Type Code":"ELEC",
-    "NAME":"Cocoon Coffee House - Tesla",
-    "ADDRESS":"8 Old Route 66",
-    "Intersection Directions":"",
-    "City":"Hawley",
-    "State":"PA",
-    "ZIP":18428,
-    "Plus4":"",
-    "Groups With Access Code":"Public",
-    "EV Level1 EVSE Num":null,
-    "EV Level2 EVSE Num":1,
-    "EV DC Fast Count":null,
-    "EVNETWORK":"Tesla",
-    "EV Connector Types":"TESLA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ -75.172088,39.954784 ]
     },
     "properties": {
