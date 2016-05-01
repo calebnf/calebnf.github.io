@@ -78,8 +78,8 @@
 <script src="countiesPA8.js"></script>
       
     <script type="text/javascript">
-    		var chgmarkers = markers.loadURL('EV_Charge.json');
-    		var chargerslyr = new L.LayerGroup(chgmarkers);
+    		var chargerslyr = new L.layerJSON(EV_Charge.json)
+
 		var mbAttr = 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
 				'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
 				'Imagery © <a href="http://mapbox.com">Mapbox</a>',
