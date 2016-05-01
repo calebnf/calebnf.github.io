@@ -1477,29 +1477,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -123.3684354,48.0939573 ]
-    },
-    "properties": {
-    "Fuel Type Code":"ELEC",
-    "NAME":"Best Western Plus Towanda Inn - Tesla",
-    "ADDRESS":"44 Pearce Ln",
-    "Intersection Directions":"",
-    "City":"Towanda",
-    "State":"PA",
-    "ZIP":18848,
-    "Plus4":"",
-    "Groups With Access Code":"Public",
-    "EV Level1 EVSE Num":null,
-    "EV Level2 EVSE Num":1,
-    "EV DC Fast Count":null,
-    "EVNETWORK":"Tesla",
-    "EV Connector Types":"TESLA"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ -76.447995,40.339576 ]
     },
     "properties": {
