@@ -1,4 +1,4 @@
-{
+var chargers = {
    "type": "FeatureCollection",
    "features": [
   {
@@ -1471,6 +1471,29 @@
     "EV DC Fast Count":null,
     "EVNETWORK":"",
     "EV Connector Types":"J1772"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.3684354,48.0939573 ]
+    },
+    "properties": {
+    "Fuel Type Code":"ELEC",
+    "NAME":"Best Western Plus Towanda Inn - Tesla",
+    "ADDRESS":"44 Pearce Ln",
+    "Intersection Directions":"",
+    "City":"Towanda",
+    "State":"PA",
+    "ZIP":18848,
+    "Plus4":"",
+    "Groups With Access Code":"Public",
+    "EV Level1 EVSE Num":null,
+    "EV Level2 EVSE Num":1,
+    "EV DC Fast Count":null,
+    "EVNETWORK":"Tesla",
+    "EV Connector Types":"TESLA"
     }
   },
   {
@@ -4001,6 +4024,29 @@
     "EV DC Fast Count":1,
     "EVNETWORK":"ChargePoint Network",
     "EV Connector Types":"CHADEMO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.3651326,48.103483 ]
+    },
+    "properties": {
+    "Fuel Type Code":"ELEC",
+    "NAME":"Cocoon Coffee House - Tesla",
+    "ADDRESS":"8 Old Route 66",
+    "Intersection Directions":"",
+    "City":"Hawley",
+    "State":"PA",
+    "ZIP":18428,
+    "Plus4":"",
+    "Groups With Access Code":"Public",
+    "EV Level1 EVSE Num":null,
+    "EV Level2 EVSE Num":1,
+    "EV DC Fast Count":null,
+    "EVNETWORK":"Tesla",
+    "EV Connector Types":"TESLA"
     }
   },
   {
