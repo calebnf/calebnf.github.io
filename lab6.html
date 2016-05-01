@@ -225,8 +225,8 @@
 						        layer.bindPopup("<h1>"+feature.properties.NAME+"</h1><p>"+feature.properties.ADDRESS+"<br>"+feature.properties.City+", "+feature.properties.State+" "+feature.properties.ZIP+"<br> Network: "+feature.properties.EVNETWORK+"");
 						    }
 		}
-		var geojsonlayer = L.geoJson(chargers, {onEachFeature: onEachFeature})
-		L.control.layers(baseLayers, overlays).addTo(map);
+	
+		L.control.layers(baseLayers, overlays, {onEachFeature: onEachFeature}).addTo(map);
 	</script>
 	<script>
     </div>
