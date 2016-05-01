@@ -105,7 +105,7 @@
 			"EV Charging Stations": chglyr
 		};
 	
-		L.control.layers(baseLayers, overlays).addTo(map);
+		
 		</script>
 	
 		<script>
@@ -226,6 +226,7 @@
 						    }
 		}
 		var geojsonlayer = L.geoJson(chargers, {onEachFeature: onEachFeature}).addTo(map);
+		L.control.layers(baseLayers, overlays).addTo(map);
 	</script>
 	<script>
     </div>
