@@ -80,7 +80,7 @@
 <script src="countiesPA8.js"></script>
       
     <script type="text/javascript">
-    		var cities = new L.LayerGroup(chglayer);
+    		var chglyr = new L.LayerGroup(chglayer);
 		var mbAttr = 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
 				'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
 				'Imagery © <a href="http://mapbox.com">Mapbox</a>',
@@ -102,7 +102,7 @@
 		};
 	
 		var overlays = {
-			"EV Charging Stations": chglayer
+			"EV Charging Stations": chglyr
 		};
 	
 		L.control.layers(baseLayers, overlays).addTo(map);
