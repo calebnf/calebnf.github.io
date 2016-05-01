@@ -79,7 +79,8 @@
 <script src="EV_Charge.js"></script>
       
     <script type="text/javascript">
-    		var chargerslyr = new L.LayerGroup(chargers);
+    		var chgmarkers = markers.loadURL('chargers.json');
+    		var chargerslyr = new L.LayerGroup(chgmarkers);
 		var mbAttr = 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
 				'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
 				'Imagery © <a href="http://mapbox.com">Mapbox</a>',
