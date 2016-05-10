@@ -51,7 +51,7 @@ $(document).ready(function(){
       function performSearch() {
         var request = {
           bounds: map.getBounds(),
-          type: 'convenience_store'
+          type: 'laundry'
         };
         service.radarSearch(request, callback);
         document.getElementById('api_results').innerHTML=service.radarSearch(request, callback);
