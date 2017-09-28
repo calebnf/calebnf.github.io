@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'lightfont';
+    src: url('https://raw.githubusercontent.com/calebnf/calebnf.github.io/blob/master/fonts/TheLightFont.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+} 
